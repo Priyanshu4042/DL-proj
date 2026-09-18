@@ -68,12 +68,23 @@ app.add_middleware(
 )
 
 API_DIR = os.path.dirname(os.path.abspath(__file__))
-SCALER_PATH = os.path.join(API_DIR, "price_scaler.pkl")
-LSTM_MODEL_PATH = os.path.join(API_DIR, "advanced_model_final.keras")
-MLP_MODEL_PATH = os.path.join(API_DIR, "mlp_model.keras")
-CONFIG_PATH = os.path.join(API_DIR, "ensemble_config.json")
-STOCK_CSV_PATH = os.path.join(API_DIR, "stock_price.csv")
-SENTIMENT_CSV_PATH = os.path.join(API_DIR, "sentiment.csv")
+PROJECT_ROOT = os.path.dirname(API_DIR)
+
+def find_file(local_name, root_subpath):
+    p1 = os.path.join(API_DIR, local_name)
+    if os.path.exists(p1):
+        return p1
+    p2 = os.path.join(PROJECT_ROOT, *root_subpath.split("/"))
+    if os.path.exists(p2):
+        return p2
+    return p1
+
+SCALER_PATH = find_file("price_scaler.pkl", "models/price_scaler.pkl")
+LSTM_MODEL_PATH = find_file("advanced_model_final.keras", "models/advanced_model_final.keras")
+MLP_MODEL_PATH = find_file("mlp_model.keras", "models/mlp_model.keras")
+CONFIG_PATH = find_file("ensemble_config.json", "models/ensemble_config.json")
+STOCK_CSV_PATH = find_file("stock_price.csv", "data/raw/stock_price.csv")
+SENTIMENT_CSV_PATH = find_file("sentiment.csv", "data/processed/sentiment.csv")
 
 state = {
     "scaler": None,

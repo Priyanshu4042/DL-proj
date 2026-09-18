@@ -25,15 +25,27 @@ print("=" * 80)
 print("ENSEMBLE TRADING MODEL")
 print("=" * 80)
 
+# Dynamically resolve file paths
+import os
+SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SRC_DIR)
+
+STOCK_PATH = os.path.join(PROJECT_ROOT, 'data', 'raw', 'stock_price.csv') if os.path.exists(os.path.join(PROJECT_ROOT, 'data', 'raw', 'stock_price.csv')) else 'stock_price.csv'
+SENTIMENT_PATH = os.path.join(PROJECT_ROOT, 'data', 'processed', 'sentiment.csv') if os.path.exists(os.path.join(PROJECT_ROOT, 'data', 'processed', 'sentiment.csv')) else 'sentiment.csv'
+MLP_MODEL_PATH = os.path.join(PROJECT_ROOT, 'models', 'mlp_model.keras') if os.path.exists(os.path.join(PROJECT_ROOT, 'models')) else 'mlp_model.keras'
+LSTM_MODEL_PATH = os.path.join(PROJECT_ROOT, 'models', 'advanced_model_final.keras') if os.path.exists(os.path.join(PROJECT_ROOT, 'models')) else 'advanced_model_final.keras'
+CONFIG_PATH = os.path.join(PROJECT_ROOT, 'models', 'ensemble_config.json') if os.path.exists(os.path.join(PROJECT_ROOT, 'models')) else 'ensemble_config.json'
+
 # ============================================================================
 # LOAD DATA
 # ============================================================================
-stock_df = pd.read_csv('stock_price.csv')
+print(f"\n[1/5] Loading data from {STOCK_PATH}...")
+stock_df = pd.read_csv(STOCK_PATH)
 stock_df = stock_df.iloc[2:].copy().reset_index(drop=True)
 stock_df['Close'] = pd.to_numeric(stock_df['Close'], errors='coerce')
 stock_df = stock_df.dropna()
 
-sentiment_df = pd.read_csv('sentiment.csv').dropna().reset_index(drop=True)
+sentiment_df = pd.read_csv(SENTIMENT_PATH).dropna().reset_index(drop=True)
 
 stock_close = stock_df['Close'].values
 sentiment_scores = sentiment_df['FinBERT score'].values[:len(stock_close)]
@@ -104,8 +116,8 @@ try:
     # We'll need to train this if it doesn't exist
     mlp_model = None
     try:
-        mlp_model = keras.models.load_model('mlp_model.keras')
-        print("  [OK] MLP loaded from mlp_model.keras")
+        mlp_model = keras.models.load_model(MLP_MODEL_PATH)
+        print(f"  [OK] MLP loaded from {MLP_MODEL_PATH}")
     except:
         print("  [WARN] MLP not found, will train new one...")
         
@@ -133,8 +145,8 @@ try:
             ],
             verbose=0
         )
-        mlp_model.save('mlp_model.keras')
-        print("  [OK] MLP trained and saved")
+        mlp_model.save(MLP_MODEL_PATH)
+        print(f"  [OK] MLP trained and saved to {MLP_MODEL_PATH}")
     
     print("  Loading Advanced LSTM model...")
     class AttentionLayer(keras.layers.Layer):
@@ -154,9 +166,9 @@ try:
 
     lstm_model = None
     try:
-        lstm_model = keras.models.load_model('advanced_model_final.keras', 
+        lstm_model = keras.models.load_model(LSTM_MODEL_PATH, 
                                             custom_objects={'AttentionLayer': AttentionLayer})
-        print("  [OK] Advanced LSTM loaded from advanced_model_final.keras")
+        print(f"  [OK] Advanced LSTM loaded from {LSTM_MODEL_PATH}")
     except Exception as err:
         print(f"  [WARN] Advanced LSTM load error: {err}")
         print("  Continuing with MLP only...")
@@ -297,10 +309,10 @@ config = {
 }
 
 import json
-with open('ensemble_config.json', 'w') as f:
+with open(CONFIG_PATH, 'w') as f:
     json.dump(config, f, indent=2)
 
-print("[OK] Ensemble configuration saved to: ensemble_config.json")
+print(f"[OK] Ensemble configuration saved to: {CONFIG_PATH}")
 print("\n" + "=" * 80)
 print("[OK] Ensemble evaluation complete!")
 print("=" * 80)

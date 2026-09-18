@@ -29,12 +29,18 @@ print("=" * 80)
 print("ADVANCED LSTM TRADING MODEL - Skip Connections & Attention")
 print("=" * 80)
 
-# ============================================================================
-# LOAD DATA
-# ============================================================================
-print("\n[1/8] Loading data...")
-stock_df = pd.read_csv('stock_price.csv')
-sentiment_df = pd.read_csv('sentiment.csv')
+# Dynamically resolve file paths
+SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SRC_DIR)
+
+STOCK_PATH = os.path.join(PROJECT_ROOT, 'data', 'raw', 'stock_price.csv') if os.path.exists(os.path.join(PROJECT_ROOT, 'data', 'raw', 'stock_price.csv')) else 'stock_price.csv'
+SENTIMENT_PATH = os.path.join(PROJECT_ROOT, 'data', 'processed', 'sentiment.csv') if os.path.exists(os.path.join(PROJECT_ROOT, 'data', 'processed', 'sentiment.csv')) else 'sentiment.csv'
+MODEL_SAVE_PATH = os.path.join(PROJECT_ROOT, 'models', 'advanced_model_final.keras') if os.path.exists(os.path.join(PROJECT_ROOT, 'models')) else 'advanced_model_final.keras'
+PLOT_SAVE_PATH = os.path.join(PROJECT_ROOT, 'results', 'advanced_model_results.png') if os.path.exists(os.path.join(PROJECT_ROOT, 'results')) else 'advanced_model_results.png'
+
+print(f"\n[1/8] Loading data from {STOCK_PATH}...")
+stock_df = pd.read_csv(STOCK_PATH)
+sentiment_df = pd.read_csv(SENTIMENT_PATH)
 
 # Clean stock data - skip header rows (first 2 rows: Ticker, Date)
 stock_df = stock_df.iloc[2:].copy()
@@ -408,8 +414,8 @@ print(f"  Total Trades:        {len(positions)}")
 # SAVE MODEL
 # ============================================================================
 print("\n[8/8] Saving model...")
-model.save('advanced_model_final.keras')
-print("✓ Saved to: advanced_model_final.keras")
+model.save(MODEL_SAVE_PATH)
+print(f"[OK] Saved to: {MODEL_SAVE_PATH}")
 
 # ============================================================================
 # PLOT TRAINING HISTORY
@@ -459,8 +465,8 @@ axes[1, 1].grid(True, alpha=0.3)
 axes[1, 1].axhline(y=0, color='black', linestyle='--', alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('advanced_model_results.png', dpi=150, bbox_inches='tight')
-print("✓ Saved plot to: advanced_model_results.png")
+plt.savefig(PLOT_SAVE_PATH, dpi=150, bbox_inches='tight')
+print(f"[OK] Saved plot to: {PLOT_SAVE_PATH}")
 
 # ============================================================================
 # FINAL SUMMARY
