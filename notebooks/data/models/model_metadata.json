@@ -1,0 +1,46 @@
+{
+  "model_architecture": {
+    "input_size": 10,
+    "hidden_size": 64,
+    "num_layers": 1,
+    "dropout": 0.1,
+    "use_attention": false,
+    "bidirectional": false
+  },
+  "training_config": {
+    "learning_rate": 0.1,
+    "sequence_length": 30,
+    "train_samples": 5742,
+    "val_samples": 1413
+  },
+  "performance_metrics": {
+    "mse": 24280.81834297382,
+    "mae": 113.38698179402928,
+    "rmse": 155.82303534129292,
+    "direction_accuracy": 28.541076487252127
+  },
+  "training_period": {
+    "start_date": "2022-01-01",
+    "end_date": "2024-12-31",
+    "symbols": [
+      "AAPL",
+      "TSLA",
+      "MSFT",
+      "GOOGL",
+      "NVDA"
+    ]
+  },
+  "feature_columns": [
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume",
+    "sentiment_pos",
+    "sentiment_neg",
+    "sentiment_neu",
+    "sentiment_score",
+    "confidence"
+  ],
+  "save_timestamp": "2025-10-12T07:44:28.438841"
+}

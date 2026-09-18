@@ -1,0 +1,507 @@
+{
+  "symbol": "MSFT",
+  "start_date": "2020-01-01T00:00:00+00:00",
+  "end_date": "2025-10-01T00:00:00+00:00",
+  "records": [
+    {
+      "date": "2025-09-30",
+      "headline": "UiPath Integrates UiPath Platform With Azure AI Foundry; The Integration Will Allow For The Orchestration Of Business-Critical Workflows With Enterprise-Grade Governance",
+      "summary": "",
+      "sentiment_pos": 0.5827006697654724,
+      "sentiment_neg": 0.008008773438632488,
+      "sentiment_neu": 0.4092905521392822,
+      "sentiment_score": 0.574691891670227,
+      "confidence": 0.5827006697654724
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Looking Into Microsoft Corp's Recent Short Interest",
+      "summary": " ",
+      "sentiment_pos": 0.02550939843058586,
+      "sentiment_neg": 0.04294981062412262,
+      "sentiment_neu": 0.931540846824646,
+      "sentiment_score": -0.01744041219353676,
+      "confidence": 0.931540846824646
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Nvidia Smashes 52-Week High As Robots And AI Take Off",
+      "summary": "Nvidia (NASDAQ: NVDA) leads the AI revolution, hitting a $4.5T market cap. Citigroup forecasts Big Tech to invest $2.8T in AI infra by 2029.",
+      "sentiment_pos": 0.7990229725837708,
+      "sentiment_neg": 0.025694940239191055,
+      "sentiment_neu": 0.17528210580348969,
+      "sentiment_score": 0.7733280062675476,
+      "confidence": 0.7990229725837708
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Sam Altman Posts Blog Titled \"Sora 2\", Says \"We are launching a new app called Sora. This is a combination of a new model called Sora 2, and a new product that makes it easy to create, share, and view videos.....\"",
+      "summary": "",
+      "sentiment_pos": 0.2633403539657593,
+      "sentiment_neg": 0.008508208207786083,
+      "sentiment_neu": 0.7281514406204224,
+      "sentiment_score": 0.2548321485519409,
+      "confidence": 0.7281514406204224
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Sam Altman Posts On X \"Excited to launch Sora 2! Video models have come a long way; this is a tremendous research achievement. Sora is also the most fun I've had with a new product in a long time. The iOS app is available in the App Store in the US and Canada; we will expand quickly.\"",
+      "summary": "",
+      "sentiment_pos": 0.8027461171150208,
+      "sentiment_neg": 0.008096774108707905,
+      "sentiment_neu": 0.18915709853172302,
+      "sentiment_score": 0.7946493625640869,
+      "confidence": 0.8027461171150208
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "'OpenAI Releases Social App for Sharing AI Videos From Sora'- Bloomberg",
+      "summary": "",
+      "sentiment_pos": 0.0945996344089508,
+      "sentiment_neg": 0.010237977840006351,
+      "sentiment_neu": 0.8951622843742371,
+      "sentiment_score": 0.08436165750026703,
+      "confidence": 0.8951622843742371
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "'PayPal's Honey to integrate with ChatGPT and other AIs for shopping assistance'- TechCrunch",
+      "summary": "",
+      "sentiment_pos": 0.8183004260063171,
+      "sentiment_neg": 0.006783683318644762,
+      "sentiment_neu": 0.17491595447063446,
+      "sentiment_score": 0.8115167617797852,
+      "confidence": 0.8183004260063171
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Deregulation May Hurt Retail Traders But Brokerages Stand To Benefit; Expect More Unexpected Bankruptcies",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.4098852872848511,
+      "sentiment_neg": 0.03700771927833557,
+      "sentiment_neu": 0.553106963634491,
+      "sentiment_score": 0.3728775680065155,
+      "confidence": 0.553106963634491
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Exploring The Competitive Space: Microsoft Versus Industry Peers In Software",
+      "summary": " ",
+      "sentiment_pos": 0.2022451013326645,
+      "sentiment_neg": 0.011866236105561256,
+      "sentiment_neu": 0.785888671875,
+      "sentiment_score": 0.19037885963916779,
+      "confidence": 0.785888671875
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "CoreWeave Extends Hot Streak With Meta's $14 Billion Cloud Deal",
+      "summary": "CoreWeave Inc. (CRWV) surged after disclosing a $14.2B cloud computing deal with Meta Platforms Inc. (META).",
+      "sentiment_pos": 0.9308546781539917,
+      "sentiment_neg": 0.03726178780198097,
+      "sentiment_neu": 0.03188355639576912,
+      "sentiment_score": 0.893592894077301,
+      "confidence": 0.9308546781539917
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "'OpenAI's First Half Results: $4.3 Billion In Sales, $2.5 Billion Cash Burn' - The Information",
+      "summary": "",
+      "sentiment_pos": 0.06298819929361343,
+      "sentiment_neg": 0.04690483212471008,
+      "sentiment_neu": 0.8901069164276123,
+      "sentiment_score": 0.01608336716890335,
+      "confidence": 0.8901069164276123
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Dan Ives, Tom Lee Align On These 13 AI Stock Picks\u2014Some Might Surprise You",
+      "summary": "When it comes to financial experts that retail traders recognize from spending hours on social media or watching CNBC, Tom Lee and Dan Ives are among the most well-known names. \n\n\n\nBoth Ives and Lee have many things in common, including being the names and brains behind new ETF launches.",
+      "sentiment_pos": 0.06557798385620117,
+      "sentiment_neg": 0.015040711499750614,
+      "sentiment_neu": 0.919381320476532,
+      "sentiment_score": 0.05053727328777313,
+      "confidence": 0.919381320476532
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Electronic Arts' Future Hinges On Madden And Battlefield, Analyst Points To Investor Day",
+      "summary": "Electronic Arts (NASDAQ: EA) shares drew fresh attention after reports of a possible $50 billion take-private deal valued the company at 17 times adjusted EBITDA, echoing Microsoft&#39;s (NASDAQ",
+      "sentiment_pos": 0.9442282915115356,
+      "sentiment_neg": 0.01973741687834263,
+      "sentiment_neu": 0.036034345626831055,
+      "sentiment_score": 0.9244908690452576,
+      "confidence": 0.9442282915115356
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Bipartisan Pair Of U.S. Senators Reintroducing Legislation To Reform H-1B And L-1 Visa Programs",
+      "summary": "",
+      "sentiment_pos": 0.845814049243927,
+      "sentiment_neg": 0.020995618775486946,
+      "sentiment_neu": 0.13319028913974762,
+      "sentiment_score": 0.8248184323310852,
+      "confidence": 0.845814049243927
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "'OpenAI's New Sora Video Generator to Require Copyright Holders to Opt Out; Executives At The Startup Notified Talent Agencies And Studios Over The Last Week' - WSJ",
+      "summary": "",
+      "sentiment_pos": 0.11566811800003052,
+      "sentiment_neg": 0.016973383724689484,
+      "sentiment_neu": 0.8673584461212158,
+      "sentiment_score": 0.09869473427534103,
+      "confidence": 0.8673584461212158
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "OpenAI Announces 'Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol'",
+      "summary": "",
+      "sentiment_pos": 0.15212231874465942,
+      "sentiment_neg": 0.008727512322366238,
+      "sentiment_neu": 0.8391502499580383,
+      "sentiment_score": 0.1433948129415512,
+      "confidence": 0.8391502499580383
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "OpenAI Introduces Parental Controls; New Tools And Resources To Support Families, And Notifications To Keep Teens Safe",
+      "summary": "",
+      "sentiment_pos": 0.2865618169307709,
+      "sentiment_neg": 0.012830780819058418,
+      "sentiment_neu": 0.700607419013977,
+      "sentiment_score": 0.2737310230731964,
+      "confidence": 0.700607419013977
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Comparative Study: Microsoft And Industry Competitors In Software Industry",
+      "summary": "In today&#39;s rapidly changing and highly competitive business world, it is vital for investors and industry enthusiasts to carefully assess companies. In this article, we will perform a comprehensive industry comparison, evaluating Microsoft (NASDAQ: MSFT) against its key competitors in the Software industry.",
+      "sentiment_pos": 0.1191677451133728,
+      "sentiment_neg": 0.011728123761713505,
+      "sentiment_neu": 0.8691041469573975,
+      "sentiment_score": 0.10743962228298187,
+      "confidence": 0.8691041469573975
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Gold Soars On Shutdown Fears But Physical Demand Weakens, Buying Stocks For Window Dressing but Rebalancing Ahead",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.07665019482374191,
+      "sentiment_neg": 0.2506307363510132,
+      "sentiment_neu": 0.6727191209793091,
+      "sentiment_score": -0.17398053407669067,
+      "confidence": 0.6727191209793091
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Leading Game Maker EA Gets Acquired In Largest All-Cash Take-Private Deal",
+      "summary": "Electronic Arts (NASDAQ: EA) surged past its 52-week high on Monday after announcing it is being acquired in a $55 billion ",
+      "sentiment_pos": 0.9371546506881714,
+      "sentiment_neg": 0.02336311712861061,
+      "sentiment_neu": 0.039482198655605316,
+      "sentiment_score": 0.9137915372848511,
+      "confidence": 0.9371546506881714
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Taiwan Semiconductor Shuts Down Rumors Of Intel Deal",
+      "summary": "Taiwan Semiconductor Manufacturing Co.",
+      "sentiment_pos": 0.012183037586510181,
+      "sentiment_neg": 0.942583441734314,
+      "sentiment_neu": 0.045233484357595444,
+      "sentiment_score": -0.9304004311561584,
+      "confidence": 0.942583441734314
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Jensen Huang Fires Back At Wall Street 'Flatlining' Nvidia Forecasts, Says AI Demand Will Crush Long-Term Expectations",
+      "summary": "Chipmaker Nvidia Corp.\u2019s (NASDAQ: NVDA) CEO Jensen Huang pushed back against Wall Street&#39;s long-term outlook for the company, saying analysts are underestimating the scale of artificial intelligence demand.",
+      "sentiment_pos": 0.02425200678408146,
+      "sentiment_neg": 0.951973021030426,
+      "sentiment_neu": 0.023775050416588783,
+      "sentiment_score": -0.9277210235595703,
+      "confidence": 0.951973021030426
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Jensen Huang Calls OpenAI The Next Multi-Trillion-Dollar Hyperscaler As Nvidia Pledges $100 Billion: 'This Is Some Of The Smartest Investment...'",
+      "summary": "Nvidia Corporation (NASDAQ: NVDA) CEO Jensen Huang said OpenAI is on track to become the world&#39;s next multi-trillion-dollar hyperscaler, defending his company&#39;s decision to ",
+      "sentiment_pos": 0.8170556426048279,
+      "sentiment_neg": 0.010160190984606743,
+      "sentiment_neu": 0.17278426885604858,
+      "sentiment_score": 0.8068954348564148,
+      "confidence": 0.8170556426048279
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Consumer Tech News (Sep. 22 \u2013 Sep. 26): US GDP Rebound, Shutdown Threat, AI Push by Big Tech, and Corporate Earnings Beats",
+      "summary": "The U.S. economy grew at a 3.8% annual rate in the second quarter, its fastest pace since the third quarter of 2023 and above the long-term trend.",
+      "sentiment_pos": 0.941145122051239,
+      "sentiment_neg": 0.036719053983688354,
+      "sentiment_neu": 0.022135848179459572,
+      "sentiment_score": 0.904426097869873,
+      "confidence": 0.941145122051239
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Bill Gates' Praise Of 15 Indian Engineers In Early Days Of Microsoft Surfaces Amid Trump's H1-B Visa Crackdown: 'That Was A Phenomenal Thing'",
+      "summary": "Small group of IIT grads transformed Microsoft engineering team, sparking global debate over US visa policies. Gates praises India&#39;s talent.",
+      "sentiment_pos": 0.8643620610237122,
+      "sentiment_neg": 0.02062644436955452,
+      "sentiment_neu": 0.11501149833202362,
+      "sentiment_score": 0.8437356352806091,
+      "confidence": 0.8643620610237122
+    },
+    {
+      "date": "2025-09-27",
+      "headline": "Trump Says 'There'll Be Others' After Comey Indictment, Slams 'Corrupt Radical Left Democrats'",
+      "summary": "On Friday, President Donald Trump stated that he anticipates more individuals will be charged, following the Justice Department\u2019s indictment of former FBI Director James Comey the day before.",
+      "sentiment_pos": 0.029192106798291206,
+      "sentiment_neg": 0.5908048152923584,
+      "sentiment_neu": 0.38000306487083435,
+      "sentiment_score": -0.5616127252578735,
+      "confidence": 0.5908048152923584
+    },
+    {
+      "date": "2025-09-27",
+      "headline": "After Public Fallout With Trump, Elon Musk Shows Support Again, Shares Cryptic AI Image Mocking Comey And Blasts Democrats Over Government Shutdown",
+      "summary": "Tesla Inc. (NASDAQ: TSLA) CEO Elon Musk publicly backed the Trump administration following former FBI Director James Comey\u2018s indictment.",
+      "sentiment_pos": 0.13178153336048126,
+      "sentiment_neg": 0.7631833553314209,
+      "sentiment_neu": 0.10503505170345306,
+      "sentiment_score": -0.6314018368721008,
+      "confidence": 0.7631833553314209
+    },
+    {
+      "date": "2025-09-27",
+      "headline": "Trump Explodes On Truth Social, Demands Microsoft Fire Ex\u2013Biden DOJ Official Lisa Monaco: '...A Menace To US National Security'",
+      "summary": "On Friday, President Donald Trump called for Microsoft (NASDAQ: MSFT) to dismiss Lisa Monaco, an executive who previously held the position of deputy attorney general under the Biden administration and is now Microsoft\u2019s global affairs president.",
+      "sentiment_pos": 0.013090161606669426,
+      "sentiment_neg": 0.8698112964630127,
+      "sentiment_neu": 0.11709851771593094,
+      "sentiment_score": -0.8567211627960205,
+      "confidence": 0.8698112964630127
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "'Trump Calls For The Firing Of Lisa Monaco, Microsoft President Of Global Affairs' - CNBC",
+      "summary": "",
+      "sentiment_pos": 0.017967285588383675,
+      "sentiment_neg": 0.5903235673904419,
+      "sentiment_neu": 0.39170917868614197,
+      "sentiment_score": -0.5723562836647034,
+      "confidence": 0.5903235673904419
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "''Players Can Now Pre-Order the ROG Xbox Ally X and ROG Xbox Ally In 38 Countries\" - Xbox",
+      "summary": "",
+      "sentiment_pos": 0.17047487199306488,
+      "sentiment_neg": 0.007918458431959152,
+      "sentiment_neu": 0.8216065764427185,
+      "sentiment_score": 0.16255640983581543,
+      "confidence": 0.8216065764427185
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Consumers Splurge, Intel, GlobalFoundries, Lilly, Paccar, American Woodmark Benefit From New Tariffs",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.17518943548202515,
+      "sentiment_neg": 0.009067708626389503,
+      "sentiment_neu": 0.8157429099082947,
+      "sentiment_score": 0.1661217212677002,
+      "confidence": 0.8157429099082947
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Comparative Study: Microsoft And Industry Competitors In Software Industry",
+      "summary": "In the fast-paced and highly competitive business world of today, conducting thorough company analysis is essential for investors and industry observers.",
+      "sentiment_pos": 0.14175476133823395,
+      "sentiment_neg": 0.011485104449093342,
+      "sentiment_neu": 0.8467600345611572,
+      "sentiment_score": 0.13026966154575348,
+      "confidence": 0.8467600345611572
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "38 Analysts Have This To Say About Microsoft",
+      "summary": "In the preceding three months, 38 analysts have released ratings for Microsoft (NASDAQ: MSFT), presenting a wide array of perspectives from bullish to bearish.",
+      "sentiment_pos": 0.08201027661561966,
+      "sentiment_neg": 0.0324324406683445,
+      "sentiment_neu": 0.8855572938919067,
+      "sentiment_score": 0.04957783594727516,
+      "confidence": 0.8855572938919067
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Trump's H-1B Bombshell: What It Means For America's Tech Supremacy",
+      "summary": "Starting in 2026, President Donald Trump plans to crank up the H-1B visa cost to $100,000. This could dramatically reshape how companies approach foreign hiring.",
+      "sentiment_pos": 0.4831610918045044,
+      "sentiment_neg": 0.16303010284900665,
+      "sentiment_neu": 0.3538088798522949,
+      "sentiment_score": 0.32013100385665894,
+      "confidence": 0.4831610918045044
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Morgan Stanley Maintains Overweight on Microsoft, Raises Price Target to $625",
+      "summary": "",
+      "sentiment_pos": 0.8682600855827332,
+      "sentiment_neg": 0.04285759851336479,
+      "sentiment_neu": 0.08888231217861176,
+      "sentiment_score": 0.8254024982452393,
+      "confidence": 0.8682600855827332
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Microsoft Partially Disables Services For Israeli Military Unit Amid Surveillance Allegations, Pro-Palestinian Groups Hail 'Welcome Step'",
+      "summary": "Following revelations of widespread monitoring of Palestinian phone calls by an Israeli military unit, Microsoft Corporation\u00a0(NASDAQ: MSFT) has taken action to disable certain services.",
+      "sentiment_pos": 0.04782824590802193,
+      "sentiment_neg": 0.7650600671768188,
+      "sentiment_neu": 0.1871117651462555,
+      "sentiment_score": -0.717231810092926,
+      "confidence": 0.7650600671768188
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Elon Musk 'Thanks' Donald Trump As White House Approves Grok For Federal Use In 'Longest' xAI-GSA Deal",
+      "summary": "Trump administration has given the go-ahead for\u00a0Elon Musk\u2018s artificial intelligence (AI) chatbot, Grok, to be used by all federal agencies. The approval comes with a unique offer from the General Services Administration (GSA).",
+      "sentiment_pos": 0.7876179218292236,
+      "sentiment_neg": 0.00742209842428565,
+      "sentiment_neu": 0.20496003329753876,
+      "sentiment_score": 0.7801958322525024,
+      "confidence": 0.7876179218292236
+    },
+    {
+      "date": "2025-09-23",
+      "headline": "Bill Gates Says What's Happening To Health Of World's Children 'Worse' Than Most People Realize And He Can't Replace Government Cuts",
+      "summary": "Microsoft Corporation (NASDAQ: MSFT) co-founder Bill Gates warned that shrinking global health funding threatens millions of children&#39;s lives, even as he announced a $912 million pledge to fight AIDS, tuberculosis, and malaria.",
+      "sentiment_pos": 0.01459970697760582,
+      "sentiment_neg": 0.9373183846473694,
+      "sentiment_neu": 0.048081908375024796,
+      "sentiment_score": -0.9227187037467957,
+      "confidence": 0.9373183846473694
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Anthropic's $1.5 Billion Settlement Over AI Training On Pirated Books Sets Precedent As Lawsuits Against OpenAI, Meta Loom",
+      "summary": "A federal judge in California has given preliminary approval to Amazon.com Inc. (NASDAQ: AMZN) and Alphabet Inc.",
+      "sentiment_pos": 0.3826015293598175,
+      "sentiment_neg": 0.15476195514202118,
+      "sentiment_neu": 0.46263647079467773,
+      "sentiment_score": 0.22783957421779633,
+      "confidence": 0.46263647079467773
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.",
+      "sentiment_pos": 0.055831681936979294,
+      "sentiment_neg": 0.013083101250231266,
+      "sentiment_neu": 0.9310852885246277,
+      "sentiment_score": 0.0427485816180706,
+      "confidence": 0.9310852885246277
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Introducing ChatGPT Pulse",
+      "summary": "",
+      "sentiment_pos": 0.0368957482278347,
+      "sentiment_neg": 0.03089025244116783,
+      "sentiment_neu": 0.9322139024734497,
+      "sentiment_score": 0.00600549578666687,
+      "confidence": 0.9322139024734497
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Why Is Marvell Technology Stock Climbing Thursday?",
+      "summary": "Marvell Technology (NASDAQ: MRVL) shares rose Thursday, fueled by investor optimism around artificial intelligence infrastructure and the company\u2019s recent strategic moves.",
+      "sentiment_pos": 0.9485925436019897,
+      "sentiment_neg": 0.024475526064634323,
+      "sentiment_neu": 0.026931913569569588,
+      "sentiment_score": 0.9241170287132263,
+      "confidence": 0.9485925436019897
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Trading Breakthrough With Quantum Computing, Strong Economic Data Upsets Momo Crowd",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.1178683266043663,
+      "sentiment_neg": 0.017666000872850418,
+      "sentiment_neu": 0.8644657731056213,
+      "sentiment_score": 0.10020232200622559,
+      "confidence": 0.8644657731056213
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "'Microsoft Has Ceased And Disabled A Set Of Services To A Unit Within Israel Ministry Of Defense; Says We Do Not Provide Technology To Facilitate Mass Surveillance Of Civilians; Says At No Point Has Co Accessed IMOD's Customer Content; Have Found Evidence That Supports Elements Of A Report In August About A Unit Of The Israel Defense Forces; Decision Does Not Impact Important Work That Microsoft Continues To Do To Protect Cybersecurity Of Israel' - Blog",
+      "summary": "",
+      "sentiment_pos": 0.04217442497611046,
+      "sentiment_neg": 0.7064933180809021,
+      "sentiment_neu": 0.25133225321769714,
+      "sentiment_score": -0.6643189191818237,
+      "confidence": 0.7064933180809021
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Pure Storage Rolls Out Major Updates To Drive Faster, Smarter AI Adoption",
+      "summary": "Pure Storage Inc. (NYSE: PSTG) on Thursday introduced new enhancements to its storage platform, aimed at helping organizations unlock the full potential of artificial intelligence while streamlining workflows across both on-premises and cloud environments.",
+      "sentiment_pos": 0.8338162302970886,
+      "sentiment_neg": 0.008656026795506477,
+      "sentiment_neu": 0.15752774477005005,
+      "sentiment_score": 0.8251602053642273,
+      "confidence": 0.8338162302970886
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Market Analysis: Microsoft And Competitors In Software Industry",
+      "summary": "In the dynamic and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating Microsoft (NASDAQ: MSFT) and its primary competitors in the Software industry.",
+      "sentiment_pos": 0.06244858354330063,
+      "sentiment_neg": 0.012843833304941654,
+      "sentiment_neu": 0.9247074723243713,
+      "sentiment_score": 0.04960475116968155,
+      "confidence": 0.9247074723243713
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Marvell Technology Adds $5 Billion To Share Buyback Plan, Strong Growth Outlook For Datacenter, AI",
+      "summary": "Shares of Marvell Technology Inc.",
+      "sentiment_pos": 0.9441235065460205,
+      "sentiment_neg": 0.013522221706807613,
+      "sentiment_neu": 0.042354244738817215,
+      "sentiment_score": 0.9306012988090515,
+      "confidence": 0.9441235065460205
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Tevogen Bio Announces Progress On Its PredicTcell Platform Which Uses Advanced Machine Learning And Transformer-Based Models To Accelerate Precision Immunotherapy Development",
+      "summary": "",
+      "sentiment_pos": 0.9210521578788757,
+      "sentiment_neg": 0.010679461993277073,
+      "sentiment_neu": 0.0682683065533638,
+      "sentiment_score": 0.9103726744651794,
+      "confidence": 0.9210521578788757
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "HSBC And IBM Put Quantum Computing To Work In Real Financial Markets",
+      "summary": "HSBC Holdings plc (NYSE: HSBC) announced on Thursday that it has produced the world\u2019s first empirical evidence showing quantum computers can add measurable value in real-world financial markets.",
+      "sentiment_pos": 0.7718286514282227,
+      "sentiment_neg": 0.008148210123181343,
+      "sentiment_neu": 0.22002312541007996,
+      "sentiment_score": 0.7636804580688477,
+      "confidence": 0.7718286514282227
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Elon Musk Is Looking For Help In Building Macrohard, The AI Software Company That Could 'Simulate' Microsoft",
+      "summary": "Elon Musk is hiring for Macrohard, his new AI-driven software venture he says could rival Microsoft by running entirely on artificial intelligence.",
+      "sentiment_pos": 0.27495935559272766,
+      "sentiment_neg": 0.00971860159188509,
+      "sentiment_neu": 0.7153220772743225,
+      "sentiment_score": 0.26524075865745544,
+      "confidence": 0.7153220772743225
+    }
+  ]
+}

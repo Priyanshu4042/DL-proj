@@ -1,0 +1,11 @@
+{
+  "mlp_weight": 0.4,
+  "lstm_weight": 0.6,
+  "sequence_length": 10,
+  "best_model": "LSTM",
+  "performance": {
+    "sharpe": 1.1466161326747044,
+    "return": 11.497980764876047,
+    "direction_acc": 48.23529411764706
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "symbol": "GOOGL",
+  "start_date": "2020-01-01T00:00:00+00:00",
+  "end_date": "2025-10-01T00:00:00+00:00",
+  "records": [
+    {
+      "date": "2025-09-30",
+      "headline": "Nvidia Smashes 52-Week High As Robots And AI Take Off",
+      "summary": "Nvidia (NASDAQ: NVDA) leads the AI revolution, hitting a $4.5T market cap. Citigroup forecasts Big Tech to invest $2.8T in AI infra by 2029.",
+      "sentiment_pos": 0.7990229725837708,
+      "sentiment_neg": 0.025694940239191055,
+      "sentiment_neu": 0.17528210580348969,
+      "sentiment_score": 0.7733280062675476,
+      "confidence": 0.7990229725837708
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Mizuho Initiates Coverage On Alphabet with Outperform Rating, Announces Price Target of $295",
+      "summary": "",
+      "sentiment_pos": 0.8180913329124451,
+      "sentiment_neg": 0.012836728245019913,
+      "sentiment_neu": 0.16907194256782532,
+      "sentiment_score": 0.8052545785903931,
+      "confidence": 0.8180913329124451
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "'Google Offers More Ad Data to Publishers at DOJ Antitrust Trial'- Bloomberg",
+      "summary": "",
+      "sentiment_pos": 0.24706313014030457,
+      "sentiment_neg": 0.013155770488083363,
+      "sentiment_neu": 0.7397810816764832,
+      "sentiment_score": 0.23390735685825348,
+      "confidence": 0.7397810816764832
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "UiPath Rolls Out UiPath Conversational Agent With Voice Interaction Powered By Google's Gemini Models",
+      "summary": "",
+      "sentiment_pos": 0.061909958720207214,
+      "sentiment_neg": 0.011543025262653828,
+      "sentiment_neu": 0.926547110080719,
+      "sentiment_score": 0.05036693438887596,
+      "confidence": 0.926547110080719
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Alibaba Stock Breaks Past 52-Week High As AI Frenzy Heats Up",
+      "summary": "Alibaba (NYSE: BABA) stock jumps 5% on strong AI and cloud push, outperforming Chinese tech stocks and NYSE Composite.",
+      "sentiment_pos": 0.9436513185501099,
+      "sentiment_neg": 0.028813831508159637,
+      "sentiment_neu": 0.02753494307398796,
+      "sentiment_score": 0.9148374795913696,
+      "confidence": 0.9436513185501099
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Airpods Pro Going To Be A 'Sneaky' AI Device Which Could Make Mass Market Breakthrough For Apple, Says Anthropic's Mike Krieger",
+      "summary": "Anthropic&#39;s Mike Krieger said Apple&#39;s AirPods Pro could become AI&#39;s stealth mass-market device as the company launched Claude Sonnet 4.5, its most advanced model yet.",
+      "sentiment_pos": 0.6568463444709778,
+      "sentiment_neg": 0.009212511591613293,
+      "sentiment_neu": 0.33394119143486023,
+      "sentiment_score": 0.6476338505744934,
+      "confidence": 0.6568463444709778
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Trump To Receive $24.5 Million In YouTube Settlement, Google's Video Platform Will Not Admit Wrongdoing",
+      "summary": "YouTube, a subsidiary of Alphabet Inc.&#39;s (NASDAQ: GOOG) (NASDAQ: GOOGL) Google, has agreed to pay $24.5 million to ",
+      "sentiment_pos": 0.6312844753265381,
+      "sentiment_neg": 0.05572431534528732,
+      "sentiment_neu": 0.3129912316799164,
+      "sentiment_score": 0.5755601525306702,
+      "confidence": 0.6312844753265381
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Gavin Newsom Says He's Signing A Law To Install 'Common-Sense Guardrails' For AI Safety: What This Means For Google, Meta And Nvidia",
+      "summary": "On Monday, Governor Gavin Newsom (D-Calif.) signed a landmark law requiring artificial intelligence giants such as OpenAI, Alphabet Inc.&#39;s (NASDAQ: GOOG) (NASDAQ: GOOGL) Google, ",
+      "sentiment_pos": 0.5462109446525574,
+      "sentiment_neg": 0.014784963801503181,
+      "sentiment_neu": 0.4390040934085846,
+      "sentiment_score": 0.531425952911377,
+      "confidence": 0.5462109446525574
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Dan Ives, Tom Lee Align On These 13 AI Stock Picks\u2014Some Might Surprise You",
+      "summary": "When it comes to financial experts that retail traders recognize from spending hours on social media or watching CNBC, Tom Lee and Dan Ives are among the most well-known names. \n\n\n\nBoth Ives and Lee have many things in common, including being the names and brains behind new ETF launches.",
+      "sentiment_pos": 0.06557798385620117,
+      "sentiment_neg": 0.015040711499750614,
+      "sentiment_neu": 0.919381320476532,
+      "sentiment_score": 0.05053727328777313,
+      "confidence": 0.919381320476532
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "'YouTube to Pay $24.5 Million to Settle Lawsuit Brought by Trump' - WSJ Exclusive",
+      "summary": "",
+      "sentiment_pos": 0.2353636622428894,
+      "sentiment_neg": 0.08729194849729538,
+      "sentiment_neu": 0.6773443818092346,
+      "sentiment_score": 0.14807170629501343,
+      "confidence": 0.6773443818092346
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Bipartisan Pair Of U.S. Senators Reintroducing Legislation To Reform H-1B And L-1 Visa Programs",
+      "summary": "",
+      "sentiment_pos": 0.845814049243927,
+      "sentiment_neg": 0.020995618775486946,
+      "sentiment_neu": 0.13319028913974762,
+      "sentiment_score": 0.8248184323310852,
+      "confidence": 0.845814049243927
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Anthropic Introduces Claude Sonnet 4.5",
+      "summary": "",
+      "sentiment_pos": 0.03549807891249657,
+      "sentiment_neg": 0.034010183066129684,
+      "sentiment_neu": 0.9304917454719543,
+      "sentiment_score": 0.0014878958463668823,
+      "confidence": 0.9304917454719543
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Cipher Stock Surged 5% As Google-Backed AI Deal Raises Price Target To $16",
+      "summary": "Cipher Mining Inc.",
+      "sentiment_pos": 0.9314348101615906,
+      "sentiment_neg": 0.017019569873809814,
+      "sentiment_neu": 0.0515456423163414,
+      "sentiment_score": 0.9144152402877808,
+      "confidence": 0.9314348101615906
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "'Anthropic Says New Model Can Code On Its Own for 30 Hours Straight'- Bloomberg",
+      "summary": "",
+      "sentiment_pos": 0.10071701556444168,
+      "sentiment_neg": 0.010404103435575962,
+      "sentiment_neu": 0.8888788223266602,
+      "sentiment_score": 0.0903129130601883,
+      "confidence": 0.8888788223266602
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Leading Game Maker EA Gets Acquired In Largest All-Cash Take-Private Deal",
+      "summary": "Electronic Arts (NASDAQ: EA) surged past its 52-week high on Monday after announcing it is being acquired in a $55 billion ",
+      "sentiment_pos": 0.9371546506881714,
+      "sentiment_neg": 0.02336311712861061,
+      "sentiment_neu": 0.039482198655605316,
+      "sentiment_score": 0.9137915372848511,
+      "confidence": 0.9371546506881714
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Mark Zuckerberg And Sam Altman Admitted Today's AI Surge Is Bubble-Like, Now A Researcher Compares The Boom With 18th Century Tulip Mania",
+      "summary": "Artificial intelligence may be powering record investment and innovation, but one of the industry&#39;s most outspoken skeptics says the hype looks eerily like past manias.",
+      "sentiment_pos": 0.04486484453082085,
+      "sentiment_neg": 0.1684437096118927,
+      "sentiment_neu": 0.7866913676261902,
+      "sentiment_score": -0.12357886135578156,
+      "confidence": 0.7866913676261902
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Consumer Tech News (Sep. 22 \u2013 Sep. 26): US GDP Rebound, Shutdown Threat, AI Push by Big Tech, and Corporate Earnings Beats",
+      "summary": "The U.S. economy grew at a 3.8% annual rate in the second quarter, its fastest pace since the third quarter of 2023 and above the long-term trend.",
+      "sentiment_pos": 0.941145122051239,
+      "sentiment_neg": 0.036719053983688354,
+      "sentiment_neu": 0.022135848179459572,
+      "sentiment_score": 0.904426097869873,
+      "confidence": 0.941145122051239
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Trump's $100,000 H-1B Visa Fee May Slash US Jobs Instead Of Boosting Them: White House Calls Out 'Massive Abuse'",
+      "summary": "Experts warn that the Trump administration&#39;s decision to raise the H-1B visa fee to $100,000 could unintentionally reduce U.S. jobs and slow economic growth.",
+      "sentiment_pos": 0.010741706937551498,
+      "sentiment_neg": 0.9658081531524658,
+      "sentiment_neu": 0.02345016598701477,
+      "sentiment_score": -0.955066442489624,
+      "confidence": 0.9658081531524658
+    },
+    {
+      "date": "2025-09-27",
+      "headline": "Mark Cuban Says AI Race Explains Musk, Zuckerberg and Dell Support for Trump",
+      "summary": "Mark Cuban\u00a0says that the backing of President Donald Trump by Big Tech is more about staying ahead in the AI race than political alignment.",
+      "sentiment_pos": 0.11369124054908752,
+      "sentiment_neg": 0.027603980153799057,
+      "sentiment_neu": 0.8587048053741455,
+      "sentiment_score": 0.08608725666999817,
+      "confidence": 0.8587048053741455
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "What Makes Pinterest's New Ad Tools So Special?",
+      "summary": "Pinterest, Inc. (NYSE: PINS) introduced a range of new advertising formats and features designed to enhance platform monetisation. Key launches include Top of Search ads, Local Inventory Ads, Wide Shopping Ads, Promotions, and Where-to-Buy links.",
+      "sentiment_pos": 0.17853805422782898,
+      "sentiment_neg": 0.008925381116569042,
+      "sentiment_neu": 0.8125366568565369,
+      "sentiment_score": 0.16961267590522766,
+      "confidence": 0.8125366568565369
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Smart Money Is Betting Big In GOOGL Options",
+      "summary": "Deep-pocketed investors have adopted a bearish approach towards Alphabet (NASDAQ: GOOGL), and it&#39;s something market players shouldn&#39;t ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+      "sentiment_pos": 0.13230328261852264,
+      "sentiment_neg": 0.08267118036746979,
+      "sentiment_neu": 0.7850255370140076,
+      "sentiment_score": 0.049632102251052856,
+      "confidence": 0.7850255370140076
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "'Anthropic to triple international workforce in global AI push'- CNBC",
+      "summary": "",
+      "sentiment_pos": 0.8571417331695557,
+      "sentiment_neg": 0.02500034309923649,
+      "sentiment_neu": 0.11785794794559479,
+      "sentiment_score": 0.8321413993835449,
+      "confidence": 0.8571417331695557
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Baidu's Apollo Go Targets Global Growth To Compete With Waymo, Tesla",
+      "summary": "Baidu (NASDAQ: BIDU) is pushing its Apollo Go robotaxi business into new markets, including Australia, as the service reaches operational profitability in several Chinese cities.",
+      "sentiment_pos": 0.9254083037376404,
+      "sentiment_neg": 0.00850899051874876,
+      "sentiment_neu": 0.06608269363641739,
+      "sentiment_score": 0.9168993234634399,
+      "confidence": 0.9254083037376404
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Meta Wins EU Approval For AI Joint Venture With Reliance",
+      "summary": "The European Commission approved a joint venture between Meta Platforms\u00a0(NASDAQ: META) and\u00a0Reliance Industries Limited\u00a0of India, under the ",
+      "sentiment_pos": 0.8543595671653748,
+      "sentiment_neg": 0.007941997610032558,
+      "sentiment_neu": 0.13769850134849548,
+      "sentiment_score": 0.8464175462722778,
+      "confidence": 0.8543595671653748
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Trump's H-1B Bombshell: What It Means For America's Tech Supremacy",
+      "summary": "Starting in 2026, President Donald Trump plans to crank up the H-1B visa cost to $100,000. This could dramatically reshape how companies approach foreign hiring.",
+      "sentiment_pos": 0.4831610918045044,
+      "sentiment_neg": 0.16303010284900665,
+      "sentiment_neu": 0.3538088798522949,
+      "sentiment_score": 0.32013100385665894,
+      "confidence": 0.4831610918045044
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "BMW Is Recalling 196,000 Vehicles In US Over Starter Defect That Can Cause A Fire",
+      "summary": "German automaker BMW of North America LLC has issued a recall of over 196,355 units of its vehicles in the U.S. over a starter defect that can become a potential fire hazard.",
+      "sentiment_pos": 0.011790099553763866,
+      "sentiment_neg": 0.9604452848434448,
+      "sentiment_neu": 0.02776454947888851,
+      "sentiment_score": -0.9486551880836487,
+      "confidence": 0.9604452848434448
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Will YouTube TV Drop NBCUniversal's 'Sunday Night Football' And 'The Voice' By September End Amid Looming Blackout Risk?",
+      "summary": "Alphabet\u2018s (NASDAQ: GOOGL) (NASDAQ: GOOG) YouTube TV\u00a0is on the brink of a potential blackout of\u00a0NBCUniversal\u00a0content due to a carriage dispute. ",
+      "sentiment_pos": 0.006858344655483961,
+      "sentiment_neg": 0.9565306305885315,
+      "sentiment_neu": 0.03661106154322624,
+      "sentiment_score": -0.949672281742096,
+      "confidence": 0.9565306305885315
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Why Cipher Mining Stock Spiked 5% Overnight?",
+      "summary": "Cipher Mining Inc. (NASDAQ: CIFR) shares are trending on Friday.\n\n\n\nCheck out the current price of CIFR stock here.",
+      "sentiment_pos": 0.10900969803333282,
+      "sentiment_neg": 0.06968844681978226,
+      "sentiment_neu": 0.8213019371032715,
+      "sentiment_score": 0.03932125121355057,
+      "confidence": 0.8213019371032715
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Anthropic's $1.5 Billion Settlement Over AI Training On Pirated Books Sets Precedent As Lawsuits Against OpenAI, Meta Loom",
+      "summary": "A federal judge in California has given preliminary approval to Amazon.com Inc. (NASDAQ: AMZN) and Alphabet Inc.",
+      "sentiment_pos": 0.3826015293598175,
+      "sentiment_neg": 0.15476195514202118,
+      "sentiment_neu": 0.46263647079467773,
+      "sentiment_score": 0.22783957421779633,
+      "confidence": 0.46263647079467773
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Cardlytics Stock Surges 5% After Hours As Citron Research Spotlights Wells Fargo Partnership",
+      "summary": "Cardlytics Inc. (NASDAQ: CDLX) saw its stock fall 9.85% during regular trading on Thursday. However, the stock rebounded in after-hours trading, climbing 5.04% to $2.50 following positive remarks from analysts.",
+      "sentiment_pos": 0.13449810445308685,
+      "sentiment_neg": 0.8509771823883057,
+      "sentiment_neu": 0.014524728059768677,
+      "sentiment_score": -0.7164790630340576,
+      "confidence": 0.8509771823883057
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Mark Zuckerberg's Meta May Lean On Rival Google To Improve Ad Targeting Despite Billions Spent On In-House AI",
+      "summary": "Meta Platforms Inc. (NASDAQ: META) is reportedly in early talks with Alphabet Inc.",
+      "sentiment_pos": 0.6990072131156921,
+      "sentiment_neg": 0.017543425783514977,
+      "sentiment_neu": 0.28344935178756714,
+      "sentiment_score": 0.6814637780189514,
+      "confidence": 0.6990072131156921
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "'Google-Linked Crypto Miner Plans $3 Billion Debt for Data Center'- Bloomberg",
+      "summary": "",
+      "sentiment_pos": 0.08505869656801224,
+      "sentiment_neg": 0.011337044648826122,
+      "sentiment_neu": 0.9036043286323547,
+      "sentiment_score": 0.07372165471315384,
+      "confidence": 0.9036043286323547
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "'Meta In Talks With Google To Use Gemini To Improve Ad Targeting' - The Information",
+      "summary": "",
+      "sentiment_pos": 0.284105509519577,
+      "sentiment_neg": 0.008399282582104206,
+      "sentiment_neu": 0.7074952721595764,
+      "sentiment_score": 0.2757062315940857,
+      "confidence": 0.7074952721595764
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Google Just Made Cipher Mining An AI-Crypto Hybrid Bet",
+      "summary": "Cipher Mining Inc (NASDAQ: CIFR) just landed one of the most eye-catching endorsements in crypto infrastructure: Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: ",
+      "sentiment_pos": 0.6200722455978394,
+      "sentiment_neg": 0.010274296626448631,
+      "sentiment_neu": 0.36965352296829224,
+      "sentiment_score": 0.6097979545593262,
+      "confidence": 0.6200722455978394
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "'Building the Next Generation of Physical Agents with Gemini Robotics-ER 1.5'- Google Developers Blog",
+      "summary": "",
+      "sentiment_pos": 0.19398391246795654,
+      "sentiment_neg": 0.008316497318446636,
+      "sentiment_neu": 0.7976995706558228,
+      "sentiment_score": 0.18566741049289703,
+      "confidence": 0.7976995706558228
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "'Google Set To Be Hit With Second Fine Under Landmark EU Rules In Coming Months; EU Not Rushing Decision Due To U.S. Trade Tensions, Criticism, Sources Say' - Reuters Exclusive",
+      "summary": "",
+      "sentiment_pos": 0.02401592582464218,
+      "sentiment_neg": 0.9368318915367126,
+      "sentiment_neu": 0.039152149111032486,
+      "sentiment_score": -0.9128159880638123,
+      "confidence": 0.9368318915367126
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Google Supports Cipher Mining's $3 Billion Data Center Pact As Company Launches $800 Million Convertible Notes Offering",
+      "summary": "Cipher Mining Inc. (NASDAQ: CIFR) secured a 10-year colocation agreement with Fluidstack valued at roughly $3 billion, positioning itself as a major player in high-per",
+      "sentiment_pos": 0.9418230652809143,
+      "sentiment_neg": 0.01488517876714468,
+      "sentiment_neu": 0.043291788548231125,
+      "sentiment_score": 0.9269378781318665,
+      "confidence": 0.9418230652809143
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Google Asks U.S. Supreme Court To Put On Hold Key Parts Of Judicial Order That Would Force It To Make Sweeping Reforms To Its App Store Play",
+      "summary": "",
+      "sentiment_pos": 0.014834286645054817,
+      "sentiment_neg": 0.876402735710144,
+      "sentiment_neu": 0.1087629571557045,
+      "sentiment_score": -0.8615684509277344,
+      "confidence": 0.876402735710144
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "CrowdStrike To Rally Around 26%? Here Are 10 Top Analyst Forecasts For Thursday",
+      "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page.",
+      "sentiment_pos": 0.04739703983068466,
+      "sentiment_neg": 0.11773518472909927,
+      "sentiment_neu": 0.8348677754402161,
+      "sentiment_score": -0.07033814489841461,
+      "confidence": 0.8348677754402161
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "MoffettNathanson Maintains Buy on Alphabet, Raises Price Target to $295",
+      "summary": "",
+      "sentiment_pos": 0.5971418619155884,
+      "sentiment_neg": 0.02508522756397724,
+      "sentiment_neu": 0.37777289748191833,
+      "sentiment_score": 0.5720566511154175,
+      "confidence": 0.5971418619155884
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Gary Black Says Tesla Robotaxi Valuation Overstated, Advocates Market Share And TAM-Based Approach Amid Competition From Waymo",
+      "summary": "Future Fund LLC&#39;s managing director, Gary Black, thinks a new approach for Tesla Inc.&#39;s (NASDAQ: TSLA) Robotaxi valuation would work better amid the Robotaxi push in the U.S.",
+      "sentiment_pos": 0.9131126403808594,
+      "sentiment_neg": 0.009192005731165409,
+      "sentiment_neu": 0.07769535481929779,
+      "sentiment_score": 0.9039206504821777,
+      "confidence": 0.9131126403808594
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "HSBC And IBM Put Quantum Computing To Work In Real Financial Markets",
+      "summary": "HSBC Holdings plc (NYSE: HSBC) announced on Thursday that it has produced the world\u2019s first empirical evidence showing quantum computers can add measurable value in real-world financial markets.",
+      "sentiment_pos": 0.7718286514282227,
+      "sentiment_neg": 0.008148210123181343,
+      "sentiment_neu": 0.22002312541007996,
+      "sentiment_score": 0.7636804580688477,
+      "confidence": 0.7718286514282227
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Cipher Mining Signs 168 MW, 10-Year AI Hosting Deal With Fluidstack Securing ~$3B Revenue; Google Backstops $1.4B, Gains ~5.4% Stake",
+      "summary": "",
+      "sentiment_pos": 0.917385995388031,
+      "sentiment_neg": 0.020302141085267067,
+      "sentiment_neu": 0.06231192126870155,
+      "sentiment_score": 0.8970838785171509,
+      "confidence": 0.917385995388031
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Tesla Launches Ad Blitz Across Facebook, Instagram, Google And X Urging Shareholders To Back Elon Musk's Massive Pay Package And Board Proposals",
+      "summary": "Elon Musk\u2019s Tesla Inc. (NASDAQ: TSLA) is reportedly running ads on multiple social media platforms, urging investors to vote in favor of Board recommendations ahead of ",
+      "sentiment_pos": 0.07114682346582413,
+      "sentiment_neg": 0.5190064907073975,
+      "sentiment_neu": 0.4098466634750366,
+      "sentiment_score": -0.44785967469215393,
+      "confidence": 0.5190064907073975
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Nvidia's Josh Parker Sounds Alarm On AI Power Demand But Hints At This Unexpected Silver Lining",
+      "summary": "Nvidia&#39;s head of sustainability Josh Parker warned that AI&#39;s surging energy demand is straining the grid but said nuclear, renewables and smarter applications could make the long-term impact net positive.",
+      "sentiment_pos": 0.04748069494962692,
+      "sentiment_neg": 0.9308383464813232,
+      "sentiment_neu": 0.021681010723114014,
+      "sentiment_score": -0.8833576440811157,
+      "confidence": 0.9308383464813232
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Google's Waymo Introduces Robotaxi Fleet Tailored For Universities, Businesses And Private Events Amid Hot Self-Driving Race",
+      "summary": "Waymo introduces the Waymo for Business service, expanding its operations to target enterprises, schools and private events.",
+      "sentiment_pos": 0.5124090313911438,
+      "sentiment_neg": 0.009520908817648888,
+      "sentiment_neu": 0.47807008028030396,
+      "sentiment_score": 0.5028881430625916,
+      "confidence": 0.5124090313911438
+    },
+    {
+      "date": "2025-09-24",
+      "headline": "Amazon's Zoox Seeks US Approval To Put 2,500 Fully Driverless Robotaxis On The Road",
+      "summary": "Amazon&#39;s self-driving unit Zoox seeks clearance to deploy driverless cars, competing with Tesla and Waymo. It plans to launch in Vegas and expand to San Francisco, Miami, and Austin.",
+      "sentiment_pos": 0.737960934638977,
+      "sentiment_neg": 0.008740408346056938,
+      "sentiment_neu": 0.25329867005348206,
+      "sentiment_score": 0.7292205095291138,
+      "confidence": 0.737960934638977
+    },
+    {
+      "date": "2025-09-24",
+      "headline": "'Waymo Launches Enterprise Service for Employee and Event Rides'- Bloomberg",
+      "summary": "",
+      "sentiment_pos": 0.12548603117465973,
+      "sentiment_neg": 0.01033694762736559,
+      "sentiment_neu": 0.8641770482063293,
+      "sentiment_score": 0.11514908075332642,
+      "confidence": 0.8641770482063293
+    },
+    {
+      "date": "2025-09-24",
+      "headline": "'Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps'- The Verge",
+      "summary": "",
+      "sentiment_pos": 0.7333389520645142,
+      "sentiment_neg": 0.008431121706962585,
+      "sentiment_neu": 0.25822994112968445,
+      "sentiment_score": 0.7249078154563904,
+      "confidence": 0.7333389520645142
+    },
+    {
+      "date": "2025-09-24",
+      "headline": "'Google launches an AI-powered mood board app, Mixboard'- TechCrunch",
+      "summary": "",
+      "sentiment_pos": 0.3224393129348755,
+      "sentiment_neg": 0.012084313668310642,
+      "sentiment_neu": 0.665476381778717,
+      "sentiment_score": 0.310355007648468,
+      "confidence": 0.665476381778717
+    }
+  ]
+}

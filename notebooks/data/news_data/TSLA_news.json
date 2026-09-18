@@ -1,0 +1,507 @@
+{
+  "symbol": "TSLA",
+  "start_date": "2020-01-01T00:00:00+00:00",
+  "end_date": "2025-10-01T00:00:00+00:00",
+  "records": [
+    {
+      "date": "2025-09-30",
+      "headline": "Tesla Roadster Booking Canceled by Popular YouTuber MKBHD: 'Tesla Has Been Sitting With My 50 Grand For Eight Years'",
+      "summary": "The second-generation Tesla Roadster was announced in 2017 and Marques Brownlee was among the people who placed early reservations.",
+      "sentiment_pos": 0.048106200993061066,
+      "sentiment_neg": 0.10118379443883896,
+      "sentiment_neu": 0.8507099151611328,
+      "sentiment_score": -0.05307759344577789,
+      "confidence": 0.8507099151611328
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+      "summary": " ",
+      "sentiment_pos": 0.07204604893922806,
+      "sentiment_neg": 0.044207990169525146,
+      "sentiment_neu": 0.8837459087371826,
+      "sentiment_score": 0.02783805876970291,
+      "confidence": 0.8837459087371826
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Deregulation May Hurt Retail Traders But Brokerages Stand To Benefit; Expect More Unexpected Bankruptcies",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.4098852872848511,
+      "sentiment_neg": 0.03700771927833557,
+      "sentiment_neu": 0.553106963634491,
+      "sentiment_score": 0.3728775680065155,
+      "confidence": 0.553106963634491
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Tesla's EV Future Is Threatened By China's '700-Pound Gorilla'",
+      "summary": "Chinese EV makers are threatening Tesla&#39;s growth in its 2nd-largest market. CEO Jim Farley warns that American automakers can&#39;t keep up.",
+      "sentiment_pos": 0.009020090103149414,
+      "sentiment_neg": 0.9665455222129822,
+      "sentiment_neu": 0.024434391409158707,
+      "sentiment_score": -0.9575254321098328,
+      "confidence": 0.9665455222129822
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Ford CEO Sounds Alarm: Jim Farley Warns Tesla Isn't The Threat \u2014 It's China's BYD And Xiaomi That Could Crush America's EV Future",
+      "summary": "Ford (NYSE: F) CEO Jim Farley isn&#39;t worried about Tesla. He&#39;s worried about China. In his words, Chinese automakers are the &#34;700-pound gorilla&#34; of the electric vehicles (EVs) industry because they offer &#34;great innovation at a low cost&#34;.",
+      "sentiment_pos": 0.2934945821762085,
+      "sentiment_neg": 0.031898412853479385,
+      "sentiment_neu": 0.6746070384979248,
+      "sentiment_score": 0.2615961730480194,
+      "confidence": 0.6746070384979248
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "QuantumScape Teams Up With Corning To Boost Next-Gen Battery Production",
+      "summary": "QuantumScape (QS) joins forces with Corning (GLW) to develop ceramic separator manufacturing capabilities for solid-state lithium-metal batteries.",
+      "sentiment_pos": 0.8888093829154968,
+      "sentiment_neg": 0.007432862184941769,
+      "sentiment_neu": 0.10375764220952988,
+      "sentiment_score": 0.8813765048980713,
+      "confidence": 0.8888093829154968
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Canaccord Genuity Maintains Buy on Tesla, Raises Price Target to $490",
+      "summary": "",
+      "sentiment_pos": 0.7804324626922607,
+      "sentiment_neg": 0.03189590945839882,
+      "sentiment_neu": 0.18767167627811432,
+      "sentiment_score": 0.7485365271568298,
+      "confidence": 0.7804324626922607
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Tesla Reports 19.3K New Insured Registrations In China, Quarterly Total Stands At Over 165K Units",
+      "summary": "Tesla had its best week in China for the quarter, with 19.3K new insured registrations and a 27% growth over the previous quarter.",
+      "sentiment_pos": 0.9530361294746399,
+      "sentiment_neg": 0.025817207992076874,
+      "sentiment_neu": 0.02114664763212204,
+      "sentiment_score": 0.9272189140319824,
+      "confidence": 0.9530361294746399
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Tesla Unveils 500 KW V4 Cabinet Fast Charger Station In California",
+      "summary": "Tesla has unveiled its new V4 Supercharger, offering 500 kW of charging capacity, as the EV urges EPA to reconsider proposal.",
+      "sentiment_pos": 0.9042856693267822,
+      "sentiment_neg": 0.01275958213955164,
+      "sentiment_neu": 0.08295474201440811,
+      "sentiment_score": 0.8915261030197144,
+      "confidence": 0.9042856693267822
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Tesla Says Owners In Australia, NZ Have Driven Over 621K Miles With Supervised FSD Within 2 Weeks Of Launch: '67 Laps Around Australia\u2026'",
+      "summary": "Tesla&#39;s vehicles in Australia and NZ have traveled 1 million km on Supervised FSD, enough to run 67 laps around Australia.",
+      "sentiment_pos": 0.15455546975135803,
+      "sentiment_neg": 0.009430961683392525,
+      "sentiment_neu": 0.8360136151313782,
+      "sentiment_score": 0.14512450993061066,
+      "confidence": 0.8360136151313782
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Dan Ives, Tom Lee Align On These 13 AI Stock Picks\u2014Some Might Surprise You",
+      "summary": "When it comes to financial experts that retail traders recognize from spending hours on social media or watching CNBC, Tom Lee and Dan Ives are among the most well-known names. \n\n\n\nBoth Ives and Lee have many things in common, including being the names and brains behind new ETF launches.",
+      "sentiment_pos": 0.06557798385620117,
+      "sentiment_neg": 0.015040711499750614,
+      "sentiment_neu": 0.919381320476532,
+      "sentiment_score": 0.05053727328777313,
+      "confidence": 0.919381320476532
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "'Teslaa Drives A Ford': Auto Giant's Clever Collab With Detroit Lions Rookie Wide Receiver",
+      "summary": "Detroit Lions rookie wide receiver Isaac Teslaa may not be one of the most recognizable NFL newcomers in 2025, but his one-handed highlight-reel catches are certainly helping.",
+      "sentiment_pos": 0.6031420230865479,
+      "sentiment_neg": 0.016365598887205124,
+      "sentiment_neu": 0.38049229979515076,
+      "sentiment_score": 0.5867764353752136,
+      "confidence": 0.6031420230865479
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.",
+      "sentiment_pos": 0.06340151280164719,
+      "sentiment_neg": 0.012972288765013218,
+      "sentiment_neu": 0.9236261248588562,
+      "sentiment_score": 0.05042922496795654,
+      "confidence": 0.9236261248588562
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Two Democratic Senators Urge Auto Safety Regulators To Address Concerns About Reported Failures Of Tesla's Full Self-Driving System To Detect And Respond To Railroad Crossings",
+      "summary": "",
+      "sentiment_pos": 0.03539138287305832,
+      "sentiment_neg": 0.8497431874275208,
+      "sentiment_neu": 0.11486542224884033,
+      "sentiment_score": -0.8143517971038818,
+      "confidence": 0.8497431874275208
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Gold Soars On Shutdown Fears But Physical Demand Weakens, Buying Stocks For Window Dressing but Rebalancing Ahead",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.07665019482374191,
+      "sentiment_neg": 0.2506307363510132,
+      "sentiment_neu": 0.6727191209793091,
+      "sentiment_score": -0.17398053407669067,
+      "confidence": 0.6727191209793091
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "While Tesla Is Warning Trump, These Two Rivals Are Quietly Hitting Fresh Highs On Wall Street As EPA Seeks To Repeal 2009 Endangerment Finding",
+      "summary": "As Tesla Inc. (NASDAQ: TSLA) recently urged the Trump administration against repealing the 2009 Endangerment Finding, the EV giant&#39;s rivals ar",
+      "sentiment_pos": 0.505280613899231,
+      "sentiment_neg": 0.3741759657859802,
+      "sentiment_neu": 0.12054348737001419,
+      "sentiment_score": 0.13110464811325073,
+      "confidence": 0.505280613899231
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Elon Musk's Tesla Urges Buyers To Lock In Orders Before September 30 $7,500 EV Credit Cutoff",
+      "summary": "Tesla Inc. (NASDAQ: TSLA) has urged customers to lock in purchases ahead of the September 30 deadline for the Federal EV credit to avail the incentive, as Q3 deliveries look ",
+      "sentiment_pos": 0.6965367197990417,
+      "sentiment_neg": 0.2330169826745987,
+      "sentiment_neu": 0.07044628262519836,
+      "sentiment_score": 0.46351975202560425,
+      "confidence": 0.6965367197990417
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Used EV Sales Soar 59% As September $7,500 Federal Credit Deadline Sparks Rush",
+      "summary": "U.S. used electric vehicle sales surged recently as the September 30 deadline for the $7,500 federal EV tax credit puts the industry on high alert.",
+      "sentiment_pos": 0.9169236421585083,
+      "sentiment_neg": 0.06166975572705269,
+      "sentiment_neu": 0.021406548097729683,
+      "sentiment_score": 0.8552538752555847,
+      "confidence": 0.9169236421585083
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Elon Musk Might Have A Solution At Hand For All Those Who Forget Where They Park In Those Multi-Level Parking Garages \u2014 FSD Update In The Works?",
+      "summary": "Tesla Inc. (NASDAQ: TSLA) CEO Elon Musk says that the company&#39;s Actually Smart Summon feature will work on multi-level parking garages.",
+      "sentiment_pos": 0.2375631481409073,
+      "sentiment_neg": 0.008773844689130783,
+      "sentiment_neu": 0.7536630630493164,
+      "sentiment_score": 0.2287892997264862,
+      "confidence": 0.7536630630493164
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Model Y Fails A Road Test, Tesla's Production Patent For Cybercab And More: This Week In Mobility",
+      "summary": "It\u2019s that time again. The weekend is over, and it\u2019s time to catch up on the latest news. Here\u2019s a quick roundup of the top stories that you might have missed.",
+      "sentiment_pos": 0.03756951168179512,
+      "sentiment_neg": 0.044480714946985245,
+      "sentiment_neu": 0.9179497957229614,
+      "sentiment_score": -0.0069112032651901245,
+      "confidence": 0.9179497957229614
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Consumer Tech News (Sep. 22 \u2013 Sep. 26): US GDP Rebound, Shutdown Threat, AI Push by Big Tech, and Corporate Earnings Beats",
+      "summary": "The U.S. economy grew at a 3.8% annual rate in the second quarter, its fastest pace since the third quarter of 2023 and above the long-term trend.",
+      "sentiment_pos": 0.941145122051239,
+      "sentiment_neg": 0.036719053983688354,
+      "sentiment_neu": 0.022135848179459572,
+      "sentiment_score": 0.904426097869873,
+      "confidence": 0.941145122051239
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Trump And Musk Reunite, Nuclear Stocks Soar, Kimmel's Comeback Breaks Records And More: This Week In Politics",
+      "summary": "It\u2019s been an eventful week with significant developments in the world of politics and late-night television.",
+      "sentiment_pos": 0.33792024850845337,
+      "sentiment_neg": 0.025462709367275238,
+      "sentiment_neu": 0.636617124080658,
+      "sentiment_score": 0.31245753169059753,
+      "confidence": 0.636617124080658
+    },
+    {
+      "date": "2025-09-27",
+      "headline": "Trump Says 'There'll Be Others' After Comey Indictment, Slams 'Corrupt Radical Left Democrats'",
+      "summary": "On Friday, President Donald Trump stated that he anticipates more individuals will be charged, following the Justice Department\u2019s indictment of former FBI Director James Comey the day before.",
+      "sentiment_pos": 0.029192106798291206,
+      "sentiment_neg": 0.5908048152923584,
+      "sentiment_neu": 0.38000306487083435,
+      "sentiment_score": -0.5616127252578735,
+      "confidence": 0.5908048152923584
+    },
+    {
+      "date": "2025-09-27",
+      "headline": "Xiaomi CEO Reveals Company Bought 3 Tesla Model Ys To Tear Apart: '...Disassembling The Parts One By One'",
+      "summary": "Xiaomi Corp. (OTC:\u00a0XIACF) (OTC:\u00a0XIACY) CEO Lei Jun revealed on Thursday that the company bought three Tesla (NASDAQ: TSLA) Model Y cars for an in-depth study.",
+      "sentiment_pos": 0.06869865953922272,
+      "sentiment_neg": 0.022998040542006493,
+      "sentiment_neu": 0.9083033204078674,
+      "sentiment_score": 0.045700617134571075,
+      "confidence": 0.9083033204078674
+    },
+    {
+      "date": "2025-09-27",
+      "headline": "After Public Fallout With Trump, Elon Musk Shows Support Again, Shares Cryptic AI Image Mocking Comey And Blasts Democrats Over Government Shutdown",
+      "summary": "Tesla Inc. (NASDAQ: TSLA) CEO Elon Musk publicly backed the Trump administration following former FBI Director James Comey\u2018s indictment.",
+      "sentiment_pos": 0.13178153336048126,
+      "sentiment_neg": 0.7631833553314209,
+      "sentiment_neu": 0.10503505170345306,
+      "sentiment_score": -0.6314018368721008,
+      "confidence": 0.7631833553314209
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.",
+      "sentiment_pos": 0.05819624289870262,
+      "sentiment_neg": 0.013382071629166603,
+      "sentiment_neu": 0.9284216165542603,
+      "sentiment_score": 0.04481416940689087,
+      "confidence": 0.9284216165542603
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Tesla's AI And Robotaxi Push Could Add $1 Trillion, Analyst Says",
+      "summary": "Tesla (NASDAQ: TSLA) and its CEO,\u00a0Elon Musk, are entering a pivotal phase as artificial intelligence and rob",
+      "sentiment_pos": 0.5567650198936462,
+      "sentiment_neg": 0.011026318185031414,
+      "sentiment_neu": 0.4322086572647095,
+      "sentiment_score": 0.545738697052002,
+      "confidence": 0.5567650198936462
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "NIO And Li Auto Fall As Beijing Tightens Grip On EV Exports",
+      "summary": "Chinese electric vehicle (EV) stocks NIO (NYSE: NIO) and Li Auto (NASDAQ: LI) slipped Friday following news that Beijing plans to implement stricter regulations on EV exports.",
+      "sentiment_pos": 0.00972201582044363,
+      "sentiment_neg": 0.9730349183082581,
+      "sentiment_neu": 0.017243048176169395,
+      "sentiment_score": -0.9633129239082336,
+      "confidence": 0.9730349183082581
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Baidu's Apollo Go Targets Global Growth To Compete With Waymo, Tesla",
+      "summary": "Baidu (NASDAQ: BIDU) is pushing its Apollo Go robotaxi business into new markets, including Australia, as the service reaches operational profitability in several Chinese cities.",
+      "sentiment_pos": 0.9254083037376404,
+      "sentiment_neg": 0.00850899051874876,
+      "sentiment_neu": 0.06608269363641739,
+      "sentiment_score": 0.9168993234634399,
+      "confidence": 0.9254083037376404
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Consumers Splurge, Intel, GlobalFoundries, Lilly, Paccar, American Woodmark Benefit From New Tariffs",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.17518943548202515,
+      "sentiment_neg": 0.009067708626389503,
+      "sentiment_neu": 0.8157429099082947,
+      "sentiment_score": 0.1661217212677002,
+      "confidence": 0.8157429099082947
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Here's How Much You Would Have Made Owning Tesla Stock In The Last 15 Years",
+      "summary": "Tesla (NASDAQ: TSLA) has outperformed the market over the past 15 years by 33.92% on an annualized basis producing an average annual return of 46.35%. Currently, Tesla has a market capitalization of $1.41 trillion. ",
+      "sentiment_pos": 0.46072226762771606,
+      "sentiment_neg": 0.02028757892549038,
+      "sentiment_neu": 0.518990159034729,
+      "sentiment_score": 0.44043469429016113,
+      "confidence": 0.518990159034729
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Tesla To Rally Around 3%? Here Are 10 Top Analyst Forecasts For Friday",
+      "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page.",
+      "sentiment_pos": 0.05465229973196983,
+      "sentiment_neg": 0.11201747506856918,
+      "sentiment_neu": 0.8333302140235901,
+      "sentiment_score": -0.05736517533659935,
+      "confidence": 0.8333302140235901
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Trump's H-1B Bombshell: What It Means For America's Tech Supremacy",
+      "summary": "Starting in 2026, President Donald Trump plans to crank up the H-1B visa cost to $100,000. This could dramatically reshape how companies approach foreign hiring.",
+      "sentiment_pos": 0.4831610918045044,
+      "sentiment_neg": 0.16303010284900665,
+      "sentiment_neu": 0.3538088798522949,
+      "sentiment_score": 0.32013100385665894,
+      "confidence": 0.4831610918045044
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Deutsche Bank Maintains Buy on Tesla, Raises Price Target to $435",
+      "summary": "",
+      "sentiment_pos": 0.534136950969696,
+      "sentiment_neg": 0.02992897480726242,
+      "sentiment_neu": 0.43593403697013855,
+      "sentiment_score": 0.504207968711853,
+      "confidence": 0.534136950969696
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Wedbush Maintains Outperform on Tesla, Raises Price Target to $600",
+      "summary": "",
+      "sentiment_pos": 0.9329524040222168,
+      "sentiment_neg": 0.022613627836108208,
+      "sentiment_neu": 0.044433917850255966,
+      "sentiment_score": 0.9103387594223022,
+      "confidence": 0.9329524040222168
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Li Auto Rolls Out $35K Electric SUV",
+      "summary": "Li Auto (NASDAQ: LI) stock gained on Friday after it officially launched the Li i6, a five-seat battery electric sport utility vehic",
+      "sentiment_pos": 0.9500998258590698,
+      "sentiment_neg": 0.018683264032006264,
+      "sentiment_neu": 0.03121696040034294,
+      "sentiment_score": 0.9314165711402893,
+      "confidence": 0.9500998258590698
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "XPEV Surges Nearly 5% In Friday Premarket \u2014Here's What's Driving It",
+      "summary": "Xpeng Inc. (NYSE: XPEV) surged over 4.36% in Friday\u2019s premarket and recorded a 5.4% spike in its Hong Kong-listed shares. It&#39;s currently trading at $22.90 in pre-market, according to Benzinga Pro data.",
+      "sentiment_pos": 0.5421984195709229,
+      "sentiment_neg": 0.017104757949709892,
+      "sentiment_neu": 0.44069674611091614,
+      "sentiment_score": 0.525093674659729,
+      "confidence": 0.5421984195709229
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Elon Musk's Tesla Urges Trump To Not Repeal 2009 Endangerment Finding Amid $2.8 Billion Revenue Loss",
+      "summary": "Tesla Inc. (NASDAQ: TSLA) has reportedly urged the Trump administration&#39;s Environmental Protection Agency (EPA) not to repeal emissions standards dictating the auto industry, following the EPA&#39;s proposal to repeal the ",
+      "sentiment_pos": 0.030053237453103065,
+      "sentiment_neg": 0.9095867276191711,
+      "sentiment_neu": 0.060360077768564224,
+      "sentiment_score": -0.8795334696769714,
+      "confidence": 0.9095867276191711
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Ross Gerber Wants To Make A Bet With Tesla, Challenges Elon Musk To Refund Customers $10K If It Doesn't Work: 'It's Been Years\u2026'",
+      "summary": "Investment firm Gerber Kawasaki&#39;s co-founder Ross Gerber has slammed Elon Musk and Tesla Inc. (NASDAQ: TSLA) over the company&#39;s Full Self-Driving technology amid a domestic autonomous driving push.",
+      "sentiment_pos": 0.011981476098299026,
+      "sentiment_neg": 0.9336724281311035,
+      "sentiment_neu": 0.05434606969356537,
+      "sentiment_score": -0.9216909408569336,
+      "confidence": 0.9336724281311035
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Bernie Sanders Warns Against AI And Robotics, Predicts 'Massive' Job Losses: There's A 'Reason' Musk And Zuckerberg Invest Hundreds Of  Billions",
+      "summary": "Sen.",
+      "sentiment_pos": 0.01117187924683094,
+      "sentiment_neg": 0.9628134965896606,
+      "sentiment_neu": 0.0260146576911211,
+      "sentiment_score": -0.9516416192054749,
+      "confidence": 0.9628134965896606
+    },
+    {
+      "date": "2025-09-23",
+      "headline": "Bill Gates Says What's Happening To Health Of World's Children 'Worse' Than Most People Realize And He Can't Replace Government Cuts",
+      "summary": "Microsoft Corporation (NASDAQ: MSFT) co-founder Bill Gates warned that shrinking global health funding threatens millions of children&#39;s lives, even as he announced a $912 million pledge to fight AIDS, tuberculosis, and malaria.",
+      "sentiment_pos": 0.01459970697760582,
+      "sentiment_neg": 0.9373183846473694,
+      "sentiment_neu": 0.048081908375024796,
+      "sentiment_score": -0.9227187037467957,
+      "confidence": 0.9373183846473694
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Tesla Ready To Tackle South America? Job Postings Hint At This Country As Next Market",
+      "summary": "Tesla Inc. (NASDAQ: TSLA) has struggled with electric vehicle demand in many markets in 2025, but could be experiencing a rebound to finish out the final tw",
+      "sentiment_pos": 0.04714479669928551,
+      "sentiment_neg": 0.9344481229782104,
+      "sentiment_neu": 0.01840704306960106,
+      "sentiment_score": -0.887303352355957,
+      "confidence": 0.9344481229782104
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+      "summary": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.",
+      "sentiment_pos": 0.05819624289870262,
+      "sentiment_neg": 0.013382071629166603,
+      "sentiment_neu": 0.9284216165542603,
+      "sentiment_score": 0.04481416940689087,
+      "confidence": 0.9284216165542603
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Tesla Urges Trump Administration Not To Repeal Vehicle Emissions Standards",
+      "summary": "",
+      "sentiment_pos": 0.09003877639770508,
+      "sentiment_neg": 0.12555189430713654,
+      "sentiment_neu": 0.7844092845916748,
+      "sentiment_score": -0.03551311790943146,
+      "confidence": 0.7844092845916748
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Live On CNBC, Bill Baruch Announces Trimmed Micron Position; Trimmed Tesla Position; Trimmed Cameco Position",
+      "summary": "",
+      "sentiment_pos": 0.26208969950675964,
+      "sentiment_neg": 0.6822892427444458,
+      "sentiment_neu": 0.055621013045310974,
+      "sentiment_score": -0.42019954323768616,
+      "confidence": 0.6822892427444458
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Trading Breakthrough With Quantum Computing, Strong Economic Data Upsets Momo Crowd",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.1178683266043663,
+      "sentiment_neg": 0.017666000872850418,
+      "sentiment_neu": 0.8644657731056213,
+      "sentiment_score": 0.10020232200622559,
+      "confidence": 0.8644657731056213
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Tesla Stock Is Trading Lower Thursday: What's Going On?",
+      "summary": "Tesla, Inc. (NASDAQ: TSLA) shares are trading lower Thursday amid overall market weakness.",
+      "sentiment_pos": 0.008944817818701267,
+      "sentiment_neg": 0.9733214378356934,
+      "sentiment_neu": 0.017733674496412277,
+      "sentiment_score": -0.9643766283988953,
+      "confidence": 0.9733214378356934
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Reported Earlier: 'Tesla August EU New Car Registrations Fell Nearly 37% - ACEA' - AInvest",
+      "summary": "",
+      "sentiment_pos": 0.008319452404975891,
+      "sentiment_neg": 0.9707489013671875,
+      "sentiment_neu": 0.020931687206029892,
+      "sentiment_score": -0.9624294638633728,
+      "confidence": 0.9707489013671875
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "BYD EU Sales Triple In August, Surpassing Tesla For Second Month As Chinese Carmakers Gain Market Share Despite Tariffs; Volkswagen, Renault And Stellantis Post Gains",
+      "summary": "",
+      "sentiment_pos": 0.9478147625923157,
+      "sentiment_neg": 0.025986289605498314,
+      "sentiment_neu": 0.02619895152747631,
+      "sentiment_score": 0.9218284487724304,
+      "confidence": 0.9478147625923157
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "Gary Black Says Tesla Robotaxi Valuation Overstated, Advocates Market Share And TAM-Based Approach Amid Competition From Waymo",
+      "summary": "Future Fund LLC&#39;s managing director, Gary Black, thinks a new approach for Tesla Inc.&#39;s (NASDAQ: TSLA) Robotaxi valuation would work better amid the Robotaxi push in the U.S.",
+      "sentiment_pos": 0.9131126403808594,
+      "sentiment_neg": 0.009192005731165409,
+      "sentiment_neu": 0.07769535481929779,
+      "sentiment_score": 0.9039206504821777,
+      "confidence": 0.9131126403808594
+    }
+  ]
+}

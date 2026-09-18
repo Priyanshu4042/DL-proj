@@ -1,0 +1,507 @@
+{
+  "symbol": "AAPL",
+  "start_date": "2024-01-01T00:00:00+00:00",
+  "end_date": "2024-01-31T00:00:00+00:00",
+  "records": [
+    {
+      "date": "2024-01-30",
+      "headline": "'Big Week For Big Tech,' Says Munster, As He Details 'Pressure Points' For The 'Magnificent 7'",
+      "summary": "Tech giants report earnings this week, including Apple, Microsoft, Alphabet, Meta and Amazon. Gene Munster predicts pressure points for each.",
+      "sentiment_pos": 0.09082281589508057,
+      "sentiment_neg": 0.25709447264671326,
+      "sentiment_neu": 0.6520826816558838,
+      "sentiment_score": -0.1662716567516327,
+      "confidence": 0.6520826816558838
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "summary": " ",
+      "sentiment_pos": 0.0831991583108902,
+      "sentiment_neg": 0.030645331367850304,
+      "sentiment_neu": 0.8861554265022278,
+      "sentiment_score": 0.052553825080394745,
+      "confidence": 0.8861554265022278
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Apple Vision Pro Hits Stores Friday: iPhone-Like Frenzy Missing For AR Headset, But Analysts Expect 500K-600K Sales This Year",
+      "summary": "Apple&#39;s Vision Pro headset launch receives strong sales and positive analyst predictions. But will the public continue to take a bite?",
+      "sentiment_pos": 0.4262792766094208,
+      "sentiment_neg": 0.0478389672935009,
+      "sentiment_neu": 0.5258817672729492,
+      "sentiment_score": 0.37844032049179077,
+      "confidence": 0.5258817672729492
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Most Important Earnings Report For This AI Driven Market Ahead, Treasury Funding Optimism",
+      "summary": "To gain an edge, this is what you need to know today.\n\n",
+      "sentiment_pos": 0.1516570746898651,
+      "sentiment_neg": 0.015105543658137321,
+      "sentiment_neu": 0.83323734998703,
+      "sentiment_score": 0.13655152916908264,
+      "confidence": 0.83323734998703
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Wedbush Reiterates Outperform on Apple, Maintains $250 Price Target",
+      "summary": "",
+      "sentiment_pos": 0.13117656111717224,
+      "sentiment_neg": 0.5677365064620972,
+      "sentiment_neu": 0.301086962223053,
+      "sentiment_score": -0.4365599453449249,
+      "confidence": 0.5677365064620972
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Market Clubhouse Morning Memo - January 30th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA)",
+      "summary": "Good Morning Traders! In today&#39;s Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.",
+      "sentiment_pos": 0.05021185800433159,
+      "sentiment_neg": 0.016140166670084,
+      "sentiment_neu": 0.9336479306221008,
+      "sentiment_score": 0.03407169133424759,
+      "confidence": 0.9336479306221008
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Comparative Study: Apple And Industry Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "summary": " ",
+      "sentiment_pos": 0.10063344985246658,
+      "sentiment_neg": 0.013700558803975582,
+      "sentiment_neu": 0.885666012763977,
+      "sentiment_score": 0.08693289011716843,
+      "confidence": 0.885666012763977
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Tech Giants' Market Concentration Echoes Dot-Com Bubble Peak, Analysts Warn",
+      "summary": "Explore JPMorgan&#39;s analysis drawing parallels between today&#39;s US equity market and the dot-com bubble, highlighting the significant concentration of top stocks and sector dominance in the MSCI USA Index.",
+      "sentiment_pos": 0.9216532707214355,
+      "sentiment_neg": 0.0259281974285841,
+      "sentiment_neu": 0.05241842567920685,
+      "sentiment_score": 0.8957250714302063,
+      "confidence": 0.9216532707214355
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Top 10 Trending Stocks On WallStreetBets As Of January 30, 2024 (Via Swaggy Stocks)",
+      "summary": "",
+      "sentiment_pos": 0.02940971404314041,
+      "sentiment_neg": 0.055419452488422394,
+      "sentiment_neu": 0.9151708483695984,
+      "sentiment_score": -0.026009738445281982,
+      "confidence": 0.9151708483695984
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Huawei Sets Up A Rematch With Apple: Mate 70 Series To Launch In September To Take On iPhone 16",
+      "summary": "Huawei is preparing to launch the Mate 70 series in September, positioning it as a contender against Apple&#39;s iPhone 16.",
+      "sentiment_pos": 0.8133912682533264,
+      "sentiment_neg": 0.013025520369410515,
+      "sentiment_neu": 0.1735832542181015,
+      "sentiment_score": 0.8003657460212708,
+      "confidence": 0.8133912682533264
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Want To Buy Samsung Galaxy S24 For Galaxy AI Features? They Won't Be Free Forever",
+      "summary": "Buried deep in the fine print of Samsung Galaxy AI announcement is the fact that these features are free only for a limited period of time.",
+      "sentiment_pos": 0.048347774893045425,
+      "sentiment_neg": 0.021253639832139015,
+      "sentiment_neu": 0.9303986430168152,
+      "sentiment_score": 0.02709413506090641,
+      "confidence": 0.9303986430168152
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Meta Gets 22% Price Target Boost Ahead Of Q4 Results As Analyst Pins Hopes On Ad Market Recovery, Reels Strength",
+      "summary": "Meta is expected to build on its recent strength achieved on the back of efficiency measures and improving ad spending, an analyst said.",
+      "sentiment_pos": 0.9551694989204407,
+      "sentiment_neg": 0.018940815702080727,
+      "sentiment_neu": 0.025889717042446136,
+      "sentiment_score": 0.9362286925315857,
+      "confidence": 0.9551694989204407
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Xreal Gathers $60M To Go Head-To-Head With Apple, Meta, And Google In The AR Glasses Arena",
+      "summary": "Xreal, a Chinese AR glasses manufacturer, has raised $60 million in funding, boosting its valuation over $1 billion, positioning it to compete with tech giants like Apple, Meta, and Google in the augmented reality market.\n",
+      "sentiment_pos": 0.949781596660614,
+      "sentiment_neg": 0.015926338732242584,
+      "sentiment_neu": 0.034292031079530716,
+      "sentiment_score": 0.9338552355766296,
+      "confidence": 0.949781596660614
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Zoom Unveils Futuristic Meeting Features For Apple Vision Pro With A New App",
+      "summary": "Zoom has unveiled a new application for Apple Vision Pro, set to launch on Feb. 2, in time for the launch of Apple&#39;s mixed-reality headset.",
+      "sentiment_pos": 0.5123396515846252,
+      "sentiment_neg": 0.009618518874049187,
+      "sentiment_neu": 0.4780418574810028,
+      "sentiment_score": 0.5027211308479309,
+      "confidence": 0.5123396515846252
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Apple Battles UK Law That Kills Encryption, Calls It A 'Secret Veto' Against Global Privacy",
+      "summary": "Apple warns UK&#39;s proposed law could globally stifle the rollout of new privacy features, thereby compromising the privacy of everyone.",
+      "sentiment_pos": 0.012886100448668003,
+      "sentiment_neg": 0.9128834009170532,
+      "sentiment_neu": 0.07423053681850433,
+      "sentiment_score": -0.8999972939491272,
+      "confidence": 0.9128834009170532
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "'History Will Repeat Itself:' Munster Warns Meta Welcoming Headset War With Apple Echoes BlackBerry's Greeting To Cupertino's 2007 Smartphone Debut",
+      "summary": "Apple is expected to launch the first iteration of its Vision Pro mixed-reality headset on Feb. 2 and has reportedly already started working on the next generation of its newest product.",
+      "sentiment_pos": 0.13715581595897675,
+      "sentiment_neg": 0.06158040463924408,
+      "sentiment_neu": 0.8012637495994568,
+      "sentiment_score": 0.07557541131973267,
+      "confidence": 0.8012637495994568
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Top Strategist Jon Wolfenbarger Warns Of Stock Market Crash And Year-Long Recession: 'Market Highly Vulnerable To Falling To New Bear Lows'",
+      "summary": "Wolfenbarger, the founder of Bull and Bear Profits and a former JPMorgan banker, is particularly concerned about the consistent decline of The Conference Board&#39;s Leading Economic Index and the longest stretch of an inverted yield curve in more than half a century.",
+      "sentiment_pos": 0.009598562493920326,
+      "sentiment_neg": 0.9685730934143066,
+      "sentiment_neu": 0.021828416734933853,
+      "sentiment_score": -0.9589745402336121,
+      "confidence": 0.9685730934143066
+    },
+    {
+      "date": "2024-01-30",
+      "headline": "Microsoft's Xbox President Slams Apple's Latest EU App Store Rules As 'A Step In The Wrong Direction'",
+      "summary": "A Microsoft executive criticized Apple&#39;s new App Store rules for the EU as regressive, following disapproval from Spotify and Epic Games, with concerns about the &#34;Core Technology Fee&#34; and Apple&#39;s continued commission from developers using third-party payment processors.",
+      "sentiment_pos": 0.008494074456393719,
+      "sentiment_neg": 0.9581092596054077,
+      "sentiment_neu": 0.033396683633327484,
+      "sentiment_score": -0.9496151804924011,
+      "confidence": 0.9581092596054077
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "US Stocks Rise At Week's Start, Tesla Rebounds, SoFi, Lucid Shine: What's Driving Markets Monday?",
+      "summary": "Wall Street witnessed slight gains at midday on Monday, with investors eagerly awaiting a series of critical earnings reports, the Federal Reserve\u2019s meeting on Wednesday and the much-anticipated job market report this Friday.",
+      "sentiment_pos": 0.9257790446281433,
+      "sentiment_neg": 0.04180870205163956,
+      "sentiment_neu": 0.032412294298410416,
+      "sentiment_score": 0.883970320224762,
+      "confidence": 0.9257790446281433
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "summary": " ",
+      "sentiment_pos": 0.06739772111177444,
+      "sentiment_neg": 0.07132050395011902,
+      "sentiment_neu": 0.8612817525863647,
+      "sentiment_score": -0.003922782838344574,
+      "confidence": 0.8612817525863647
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Key To The Market Is Biden's Response To Killing Of U.S. Soldiers \u2013 Optimism Over Tech Earnings",
+      "summary": "\n\nTo gain an edge, this is what you need to know today.\n\nBiden Response\n\nPlease\u00a0see the chart above of Light Sweet Crude Oil futures (CL_F).\n\nNote the following:",
+      "sentiment_pos": 0.11114024370908737,
+      "sentiment_neg": 0.015044275671243668,
+      "sentiment_neu": 0.8738154172897339,
+      "sentiment_score": 0.0960959643125534,
+      "confidence": 0.8738154172897339
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "What's Going On With Rivian Automotive Stock?",
+      "summary": "Rumors are swirling around a potential March 2024 launch of Rivian&#39;s R2 model after an agenda report from a Laguna Beach City Council meeting shows that the council is set to approve an event submitted by Rivian and titled &#34;Rivian R2 Launch.&#34;",
+      "sentiment_pos": 0.1257457435131073,
+      "sentiment_neg": 0.11498548090457916,
+      "sentiment_neu": 0.7592687606811523,
+      "sentiment_score": 0.010760262608528137,
+      "confidence": 0.7592687606811523
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Market Clubhouse Morning Memo - January 29th, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA)",
+      "summary": "Good Morning Traders! In today&#39;s Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.",
+      "sentiment_pos": 0.0498732328414917,
+      "sentiment_neg": 0.01619531959295273,
+      "sentiment_neu": 0.9339314699172974,
+      "sentiment_score": 0.03367791324853897,
+      "confidence": 0.9339314699172974
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings",
+      "summary": "As a key distributor of transformative AI technology, Microsoft positions itself for substantial financial gains.",
+      "sentiment_pos": 0.951691210269928,
+      "sentiment_neg": 0.019264865666627884,
+      "sentiment_neu": 0.029043886810541153,
+      "sentiment_score": 0.9324263334274292,
+      "confidence": 0.951691210269928
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Apple Design Legend Jony Ive Wanted To Merge MacBook Air And Pro Lines: Report",
+      "summary": "Design legend Jony Ive once contemplated the idea of consolidating Apple&#39;s MacBook Air and MacBook Pro into a single product line.",
+      "sentiment_pos": 0.07624366879463196,
+      "sentiment_neg": 0.01770695485174656,
+      "sentiment_neu": 0.906049370765686,
+      "sentiment_score": 0.05853671580553055,
+      "confidence": 0.906049370765686
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Europe Fears 'Honeymoon Is Over' As Biden Continues Trump's 'Protectionist' Trade Policies",
+      "summary": "EU worried as Biden continues Trump&#39;s protectionist trade policies. Concerns about US commitment to rules-based system and potential conflict.",
+      "sentiment_pos": 0.018003590404987335,
+      "sentiment_neg": 0.9365540742874146,
+      "sentiment_neu": 0.04544233903288841,
+      "sentiment_score": -0.9185504913330078,
+      "confidence": 0.9365540742874146
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "AI, Biotech, Energy Sectors Expect M&A Revival For 2024",
+      "summary": "The AI market, along with energy and biotech, are ripe for M&amp;A following the worst performance in almost a decade for deal-making in 2023.",
+      "sentiment_pos": 0.12229879200458527,
+      "sentiment_neg": 0.8349190354347229,
+      "sentiment_neu": 0.042782120406627655,
+      "sentiment_score": -0.7126202583312988,
+      "confidence": 0.8349190354347229
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "'Major League Soccer Returns To MLS Season Pass On The Apple TV App' - Apple",
+      "summary": "",
+      "sentiment_pos": 0.09832165390253067,
+      "sentiment_neg": 0.010264421813189983,
+      "sentiment_neu": 0.8914139270782471,
+      "sentiment_score": 0.08805723488330841,
+      "confidence": 0.8914139270782471
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Microsoft Set To Leapfrog Apple In Market Value In The Next Five Years, Investors Predict",
+      "summary": "Microsoft&#39;s recent strides in generative AI are seen as a significant advantage over Apple in the long term. ",
+      "sentiment_pos": 0.9488440752029419,
+      "sentiment_neg": 0.014277271926403046,
+      "sentiment_neu": 0.036878567188978195,
+      "sentiment_score": 0.9345667958259583,
+      "confidence": 0.9488440752029419
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "US Stocks Set For Mixed Open As Traders Await Tech Earnings Deluge, Central Bank Meeting: Analyst Says Fed Will Talk Tough For While Longer",
+      "summary": "With inflation data indicating a sustained downtrend and economic growth remaining resilient, the market looks ahead to build on its recent strength.",
+      "sentiment_pos": 0.9245971441268921,
+      "sentiment_neg": 0.0420675203204155,
+      "sentiment_neu": 0.03333533927798271,
+      "sentiment_score": 0.882529616355896,
+      "confidence": 0.9245971441268921
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "TSMC Reportedly Expands In Japan With A Second Plant, Investing Billions And Shaping The Future Of Chips",
+      "summary": "TSMC eyes 2nd Japanese plant in Kumamoto, likely to invest $13.5B. Japan aims to triple domestic chip sales by 2030. 3nm fab worth $20B planned.",
+      "sentiment_pos": 0.8882438540458679,
+      "sentiment_neg": 0.00866808369755745,
+      "sentiment_neu": 0.10308802127838135,
+      "sentiment_score": 0.879575788974762,
+      "confidence": 0.8882438540458679
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Apple Card Rewards Just Raised APY For Third Time To Hit 4.50%",
+      "summary": "Apple&#39;s previous rate increase had already aligned it with the APY offered by several other popular high-yield savings accounts, such as those from American Express and Discover.",
+      "sentiment_pos": 0.9342967867851257,
+      "sentiment_neg": 0.011282158084213734,
+      "sentiment_neu": 0.054421089589595795,
+      "sentiment_score": 0.9230146408081055,
+      "confidence": 0.9342967867851257
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Tech Titans Microsoft, Apple Lead 'Magnificent Seven' Earnings Wave This Week: Can Mega-Caps Ignite Market Optimism?",
+      "summary": "An analyst sees the Satya Nadella-led company&#39;s earnings to be the key barometer for AI spending.",
+      "sentiment_pos": 0.7116897106170654,
+      "sentiment_neg": 0.02002730779349804,
+      "sentiment_neu": 0.268282949924469,
+      "sentiment_score": 0.6916624307632446,
+      "confidence": 0.7116897106170654
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Elon Musk Minimizes Mob Trolling On X As Paul Graham Says It Has 'Improved A Lot:' 'Water Off A Duck's Back'",
+      "summary": "Elon Musk has minimized the problem of mob trolling on X, after venture capitalist Paul Graham quipped that it has &#34;improved&#34; a lot.",
+      "sentiment_pos": 0.9517825841903687,
+      "sentiment_neg": 0.01902121491730213,
+      "sentiment_neu": 0.029196251183748245,
+      "sentiment_score": 0.9327613711357117,
+      "confidence": 0.9517825841903687
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Why iOS 18 Could Be Apple's 'Biggest' Software Update In iPhone's History: Analyst Explains",
+      "summary": "The upcoming iOS 18 software update from Apple Inc. is expected to be a major release, with notable enhancements including RCS support in the Messages app and improved Siri functionality leveraging generative AI technology.",
+      "sentiment_pos": 0.9258239269256592,
+      "sentiment_neg": 0.01115611381828785,
+      "sentiment_neu": 0.06301996856927872,
+      "sentiment_score": 0.9146677851676941,
+      "confidence": 0.9258239269256592
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Apple's 'Find My' Feature Helps An iPhone Owner Recover Their Stolen Phone From Walmart's 'EcoATM': Here's How You Can Save Yours",
+      "summary": "An iPhone owner located their stolen device recently at a Walmart EcoATM kiosk, using Apple&#39;s &#34;Find My&#34; feature to locate their device.",
+      "sentiment_pos": 0.04982050880789757,
+      "sentiment_neg": 0.03787335008382797,
+      "sentiment_neu": 0.9123061895370483,
+      "sentiment_score": 0.011947158724069595,
+      "confidence": 0.9123061895370483
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Apple Could Unveil Next-Gen iPads, MacBook Airs With M3 Chips By End Of March, Says Mark Gurman",
+      "summary": "Apple is expected to announce new iPad models, including a revamped iPad Pro, and MacBook Airs with M3 processors by the end of March, according to Bloomberg columnist Mark Gurman.",
+      "sentiment_pos": 0.20986229181289673,
+      "sentiment_neg": 0.015478725545108318,
+      "sentiment_neu": 0.7746589183807373,
+      "sentiment_score": 0.19438356161117554,
+      "confidence": 0.7746589183807373
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "'Hello Vision Pro' \u2014 Apple Is Now Touting Its Mixed Reality Headset On YouTube: Watch Here",
+      "summary": "Apple is set to launch its first-generation mixed-reality headset, Vision Pro, on Feb. 2, and has shared a TV spot emphasizing the device&#39;s potential in everyday life, featuring spatial computing capabilities, eye tracking, finger pinch, and versatility in scenarios like watching movies and FaceTime calls.",
+      "sentiment_pos": 0.44696587324142456,
+      "sentiment_neg": 0.010734733194112778,
+      "sentiment_neu": 0.5422994494438171,
+      "sentiment_score": 0.4362311363220215,
+      "confidence": 0.5422994494438171
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Apple's Latest Film 'Little Garlic' Is A Chinese New Year Story Of Self-Discovery And Filmed Entirely On iPhone 15 Pro Max",
+      "summary": "Apple Inc. has released a Chinese New Year film titled &#34;Little Garlic,&#34; shot entirely on the iPhone 15 Pro Max, exploring themes of self-discovery and insecurity in today&#39;s fast-paced world.",
+      "sentiment_pos": 0.10200709849596024,
+      "sentiment_neg": 0.015858246013522148,
+      "sentiment_neu": 0.882134735584259,
+      "sentiment_score": 0.08614885061979294,
+      "confidence": 0.882134735584259
+    },
+    {
+      "date": "2024-01-29",
+      "headline": "Top Asset Manager Predicts Economic Slowdown, Weaker Performance For 'Magnificent Seven' In 2024: 'This Dynamic Generally Does Not End Well'",
+      "summary": "Amundi, with $2 trillion under management, anticipates a less robust economic growth in the upcoming year, which could result in a weaker performance from the leading mega-cap stocks.",
+      "sentiment_pos": 0.012975570745766163,
+      "sentiment_neg": 0.96663898229599,
+      "sentiment_neu": 0.02038550190627575,
+      "sentiment_score": -0.9536634087562561,
+      "confidence": 0.96663898229599
+    },
+    {
+      "date": "2024-01-28",
+      "headline": "Rivian Poaches Apple Executive Involved In Early Stages Of Tech Giant's Self-driving Project: Report",
+      "summary": "A key executive, who was among the early members of Apple&#39;s self-driving team, has moved to Rivian, one report says.",
+      "sentiment_pos": 0.031082332134246826,
+      "sentiment_neg": 0.080955371260643,
+      "sentiment_neu": 0.887962281703949,
+      "sentiment_score": -0.04987303912639618,
+      "confidence": 0.887962281703949
+    },
+    {
+      "date": "2024-01-28",
+      "headline": "Vision Pro Exceeds Expectations, Banned Apple Watch Feature Saves Teen And More: Top News In Appleverse This Week",
+      "summary": "From booking a majority of TSMC&#39;s initial 2nm chips capacity to rolling out an &#34;Alternative App Store&#34; model in the EU, Apple&#39;s moves were far-reaching.",
+      "sentiment_pos": 0.918876588344574,
+      "sentiment_neg": 0.011351367458701134,
+      "sentiment_neu": 0.06977207213640213,
+      "sentiment_score": 0.9075252413749695,
+      "confidence": 0.918876588344574
+    },
+    {
+      "date": "2024-01-28",
+      "headline": "Musk Refuting xAI Funding Reports, Biden's AI Project, Apple's New Assistant, Deepfake Threats And More: This Week In AI",
+      "summary": "The week gone by was chock-full of significant developments in the realm of artificial intelligence (AI). From Elon Musk dispelling rumors about his AI start-up raising capital, to tech giants joining President Biden&#39;s AI research project.",
+      "sentiment_pos": 0.06353750079870224,
+      "sentiment_neg": 0.04541323706507683,
+      "sentiment_neu": 0.8910492658615112,
+      "sentiment_score": 0.018124263733625412,
+      "confidence": 0.8910492658615112
+    },
+    {
+      "date": "2024-01-28",
+      "headline": "Apple's VP Of Hardware, DJ Novotney, Leaves For Top Rivian Product Role",
+      "summary": "",
+      "sentiment_pos": 0.028727615252137184,
+      "sentiment_neg": 0.30909910798072815,
+      "sentiment_neu": 0.6621732711791992,
+      "sentiment_score": -0.2803714871406555,
+      "confidence": 0.6621732711791992
+    },
+    {
+      "date": "2024-01-27",
+      "headline": "If You Invested $1000 In Apple When The iPad Was Launched 14 Years Ago, Here's How Much You'd Have Today",
+      "summary": "If you had invested $1,000 in Apple stock when the iPad was launched 14 years ago, here&#39;s how much you would have now.",
+      "sentiment_pos": 0.0411514937877655,
+      "sentiment_neg": 0.01948034018278122,
+      "sentiment_neu": 0.9393682479858398,
+      "sentiment_score": 0.021671153604984283,
+      "confidence": 0.9393682479858398
+    },
+    {
+      "date": "2024-01-27",
+      "headline": "Benzinga Bulls And Bears: Apple, Tesla, Amazon And Dogecoin Will Hit 10 Cents On Hopes Of Musk's X Payment Integration, Says Analyst",
+      "summary": "Benzinga\u00a0examined the prospects for many investors&#39;\u00a0favorite stocks over the last week \u2014 here&#39;s a look at some of our top stories.",
+      "sentiment_pos": 0.21479670703411102,
+      "sentiment_neg": 0.010906877927482128,
+      "sentiment_neu": 0.7742964625358582,
+      "sentiment_score": 0.20388983190059662,
+      "confidence": 0.7742964625358582
+    },
+    {
+      "date": "2024-01-27",
+      "headline": "EU Threatens Apple Of 'Strong Action' Over App Store Modifications: 'We Will Not Hesitate'",
+      "summary": "EU&#39;s industry chief Thierry Breton warns Apple of potential severe consequences if the company&#39;s App Store modifications fail to comply with the upcoming Digital Markets Act regulations.",
+      "sentiment_pos": 0.013380405493080616,
+      "sentiment_neg": 0.950821042060852,
+      "sentiment_neu": 0.035798538476228714,
+      "sentiment_score": -0.9374406337738037,
+      "confidence": 0.950821042060852
+    },
+    {
+      "date": "2024-01-27",
+      "headline": "Tesla Spends Less Than Apple On R&D In 2023, Says Investor: Elon Musk Hails 'Gigantic Differences In Effectiveness'",
+      "summary": " ",
+      "sentiment_pos": 0.46006518602371216,
+      "sentiment_neg": 0.02919085882604122,
+      "sentiment_neu": 0.5107439756393433,
+      "sentiment_score": 0.4308743178844452,
+      "confidence": 0.5107439756393433
+    },
+    {
+      "date": "2024-01-27",
+      "headline": "Spotify CEO Slams Apple's 'Alternative App Store' Fee, Says It Will Increase Customer Acquisition Costs Ten Fold: 'New Low Even For Them'",
+      "summary": "Spotify called Apple&#39;s proposed &#34;Alternative App Store&#34; changes as a &#34;complete and total farce,&#34; with founder Daniel Ek slamming the company.",
+      "sentiment_pos": 0.8614979386329651,
+      "sentiment_neg": 0.020584680140018463,
+      "sentiment_neu": 0.11791738122701645,
+      "sentiment_score": 0.8409132361412048,
+      "confidence": 0.8614979386329651
+    },
+    {
+      "date": "2024-01-26",
+      "headline": "'Apple's Proposed Changes Reject The Goals Of The DMA' - Spotify",
+      "summary": "",
+      "sentiment_pos": 0.08074002712965012,
+      "sentiment_neg": 0.049732208251953125,
+      "sentiment_neu": 0.8695278167724609,
+      "sentiment_score": 0.03100781887769699,
+      "confidence": 0.8695278167724609
+    }
+  ]
+}

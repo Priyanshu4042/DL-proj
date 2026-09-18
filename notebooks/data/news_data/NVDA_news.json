@@ -1,0 +1,507 @@
+{
+  "symbol": "NVDA",
+  "start_date": "2020-01-01T00:00:00+00:00",
+  "end_date": "2025-10-01T00:00:00+00:00",
+  "records": [
+    {
+      "date": "2025-09-30",
+      "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+      "summary": " ",
+      "sentiment_pos": 0.06739772111177444,
+      "sentiment_neg": 0.07132050395011902,
+      "sentiment_neu": 0.8612817525863647,
+      "sentiment_score": -0.003922782838344574,
+      "confidence": 0.8612817525863647
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Nvidia Smashes 52-Week High As Robots And AI Take Off",
+      "summary": "Nvidia (NASDAQ: NVDA) leads the AI revolution, hitting a $4.5T market cap. Citigroup forecasts Big Tech to invest $2.8T in AI infra by 2029.",
+      "sentiment_pos": 0.7990229725837708,
+      "sentiment_neg": 0.025694940239191055,
+      "sentiment_neu": 0.17528210580348969,
+      "sentiment_score": 0.7733280062675476,
+      "confidence": 0.7990229725837708
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "U.S. Trade Representative Jamieson Greer Says, Asked Whether Trump Administration Has Discussed Taking A Stake In Nvidia, Says Trump Would 'Love A Stake In Every Company That's Doing Well'",
+      "summary": "",
+      "sentiment_pos": 0.28225940465927124,
+      "sentiment_neg": 0.009333468042314053,
+      "sentiment_neu": 0.7084071636199951,
+      "sentiment_score": 0.2729259431362152,
+      "confidence": 0.7084071636199951
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "CNBC Halftime Report Final Trades: NVIDIA, Amphenol , Lockheed Martin , Regeneron Pharmaceuticals",
+      "summary": "",
+      "sentiment_pos": 0.037120334804058075,
+      "sentiment_neg": 0.03460603579878807,
+      "sentiment_neu": 0.9282736778259277,
+      "sentiment_score": 0.0025142990052700043,
+      "confidence": 0.9282736778259277
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Live On CNBC, Amy Raskin Announces Trimmed NVIDIA Position",
+      "summary": "",
+      "sentiment_pos": 0.035782355815172195,
+      "sentiment_neg": 0.02595379762351513,
+      "sentiment_neu": 0.9382638335227966,
+      "sentiment_score": 0.009828558191657066,
+      "confidence": 0.9382638335227966
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Nvidia To Rally More Than 37%? Here Are 10 Top Analyst Forecasts For Tuesday",
+      "summary": " ",
+      "sentiment_pos": 0.06374504417181015,
+      "sentiment_neg": 0.02766767330467701,
+      "sentiment_neu": 0.9085873365402222,
+      "sentiment_score": 0.03607737272977829,
+      "confidence": 0.9085873365402222
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "A Closer Look at NVIDIA's Options Market Dynamics",
+      "summary": " ",
+      "sentiment_pos": 0.07470700144767761,
+      "sentiment_neg": 0.011037626303732395,
+      "sentiment_neu": 0.9142554402351379,
+      "sentiment_score": 0.06366937607526779,
+      "confidence": 0.9142554402351379
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Deregulation May Hurt Retail Traders But Brokerages Stand To Benefit; Expect More Unexpected Bankruptcies",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.4098852872848511,
+      "sentiment_neg": 0.03700771927833557,
+      "sentiment_neu": 0.553106963634491,
+      "sentiment_score": 0.3728775680065155,
+      "confidence": 0.553106963634491
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Keybanc Maintains Overweight on NVIDIA, Raises Price Target to $250",
+      "summary": "",
+      "sentiment_pos": 0.9376631379127502,
+      "sentiment_neg": 0.021790802478790283,
+      "sentiment_neu": 0.040546078234910965,
+      "sentiment_score": 0.91587233543396,
+      "confidence": 0.9376631379127502
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "In-Depth Analysis: NVIDIA Versus Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "summary": " ",
+      "sentiment_pos": 0.155912384390831,
+      "sentiment_neg": 0.014665071852505207,
+      "sentiment_neu": 0.829422652721405,
+      "sentiment_score": 0.14124731719493866,
+      "confidence": 0.829422652721405
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "UiPath Stock Is Surging Tuesday: What's Going On?",
+      "summary": "UiPath, Inc. (NYSE:PATH) shares are trading higher Tuesday after the company announced a partnership with OpenAI to develop ChatGPT to integrate OpenAI frontier models with enterprise customer workflows.",
+      "sentiment_pos": 0.9492008686065674,
+      "sentiment_neg": 0.027831224724650383,
+      "sentiment_neu": 0.022967858240008354,
+      "sentiment_score": 0.9213696718215942,
+      "confidence": 0.9492008686065674
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Nvidia's China Nightmare Deepens\u2014Huawei's Chip Army Is Coming",
+      "summary": "Huawei&#39;s rapid production of AI chips poses a serious test for Nvidia&#39;s dominance in China. With government support and competitive pricing, Huawei is challenging Nvidia in its own backyard. Investors should take note of the shifting landscape in the world&#39;s largest AI hardware market.",
+      "sentiment_pos": 0.227065771818161,
+      "sentiment_neg": 0.4324495494365692,
+      "sentiment_neu": 0.34048470854759216,
+      "sentiment_score": -0.2053837776184082,
+      "confidence": 0.4324495494365692
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "CoreWeave Extends Hot Streak With Meta's $14 Billion Cloud Deal",
+      "summary": "CoreWeave Inc. (CRWV) surged after disclosing a $14.2B cloud computing deal with Meta Platforms Inc. (META).",
+      "sentiment_pos": 0.9308546781539917,
+      "sentiment_neg": 0.03726178780198097,
+      "sentiment_neu": 0.03188355639576912,
+      "sentiment_score": 0.893592894077301,
+      "confidence": 0.9308546781539917
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "UiPath Collaborates With NVIDIA To Help Enterprise Customers Fortify Existing Automated Workflows With AI Capabilities In High-Trust Scenarios",
+      "summary": "",
+      "sentiment_pos": 0.6454762816429138,
+      "sentiment_neg": 0.007396326400339603,
+      "sentiment_neu": 0.3471273183822632,
+      "sentiment_score": 0.6380799412727356,
+      "confidence": 0.6454762816429138
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Citigroup Maintains Buy on NVIDIA, Raises Price Target to $210",
+      "summary": "",
+      "sentiment_pos": 0.8521585464477539,
+      "sentiment_neg": 0.024141209200024605,
+      "sentiment_neu": 0.12370021641254425,
+      "sentiment_score": 0.8280173540115356,
+      "confidence": 0.8521585464477539
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Stock Market Today: Nasdaq, Dow Futures Slip As Shutdown Standoff Drags On\u2014Cigna, Wolfspeed, Nike In Focus (UPDATED)",
+      "summary": "U.S. stock futures fell on Tuesday following Monday&#39;s advances. Futures of major benchmark indices were lower.",
+      "sentiment_pos": 0.007658676709979773,
+      "sentiment_neg": 0.9745833277702332,
+      "sentiment_neu": 0.017758021131157875,
+      "sentiment_score": -0.9669246673583984,
+      "confidence": 0.9745833277702332
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Alibaba Stock Breaks Past 52-Week High As AI Frenzy Heats Up",
+      "summary": "Alibaba (NYSE: BABA) stock jumps 5% on strong AI and cloud push, outperforming Chinese tech stocks and NYSE Composite.",
+      "sentiment_pos": 0.9436513185501099,
+      "sentiment_neg": 0.028813831508159637,
+      "sentiment_neu": 0.02753494307398796,
+      "sentiment_score": 0.9148374795913696,
+      "confidence": 0.9436513185501099
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Trump Administration Tightens Export Controls To Slow China's Tech Race\u2014Experts Hail 'Massive Change'",
+      "summary": "The Trump administration has announced a significant tightening of\u00a0export controls on Chinese companies, particularly those in the semiconductor industry, in a move aimed at impeding China&#39;s technological advancement.",
+      "sentiment_pos": 0.18111099302768707,
+      "sentiment_neg": 0.7602858543395996,
+      "sentiment_neu": 0.058603137731552124,
+      "sentiment_score": -0.5791748762130737,
+      "confidence": 0.7602858543395996
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Nvidia's 'Jensen Math' Of $50 Billion Revenue Per GW Gets A Reality Check: Here's What Barclays Analysts Project For NVDA",
+      "summary": "Analyzing the gap in NVIDIA&#39;s (NVDA) AI compute cost. Barclays&#39; forecast vs. Jensen Huang&#39;s $50B target. What investors should know.",
+      "sentiment_pos": 0.07074247300624847,
+      "sentiment_neg": 0.027200883254408836,
+      "sentiment_neu": 0.9020566344261169,
+      "sentiment_score": 0.04354158788919449,
+      "confidence": 0.9020566344261169
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Goldman Sachs Warns Wall Street's 'Goldilocks' Economy Could Soon Meet Three Big 'Bears' \u2014 And Investors Aren't Ready For The Shock",
+      "summary": "The global investment banking giant\u00a0Goldman Sachs Group Inc. has raised concerns about a potential market shock that could disrupt the current &#39;Goldilocks&#39; economy.",
+      "sentiment_pos": 0.012836191803216934,
+      "sentiment_neg": 0.9620664715766907,
+      "sentiment_neu": 0.025097260251641273,
+      "sentiment_score": -0.9492302536964417,
+      "confidence": 0.9620664715766907
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Nasdaq Gains Over 100 Points: Investor Sentiment Edges Lower, But Fear & Greed Index Remains In 'Neutral' Zone",
+      "summary": "Market sentiment declined according to CNN Money Fear and Greed index, while U.S. stocks settled higher with Nasdaq gaining 100 points.",
+      "sentiment_pos": 0.341473251581192,
+      "sentiment_neg": 0.6235411763191223,
+      "sentiment_neu": 0.03498557209968567,
+      "sentiment_score": -0.2820679247379303,
+      "confidence": 0.6235411763191223
+    },
+    {
+      "date": "2025-09-30",
+      "headline": "Gavin Newsom Says He's Signing A Law To Install 'Common-Sense Guardrails' For AI Safety: What This Means For Google, Meta And Nvidia",
+      "summary": "On Monday, Governor Gavin Newsom (D-Calif.) signed a landmark law requiring artificial intelligence giants such as OpenAI, Alphabet Inc.&#39;s (NASDAQ: GOOG) (NASDAQ: GOOGL) Google, ",
+      "sentiment_pos": 0.5462109446525574,
+      "sentiment_neg": 0.014784963801503181,
+      "sentiment_neu": 0.4390040934085846,
+      "sentiment_score": 0.531425952911377,
+      "confidence": 0.5462109446525574
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Dan Ives, Tom Lee Align On These 13 AI Stock Picks\u2014Some Might Surprise You",
+      "summary": "When it comes to financial experts that retail traders recognize from spending hours on social media or watching CNBC, Tom Lee and Dan Ives are among the most well-known names. \n\n\n\nBoth Ives and Lee have many things in common, including being the names and brains behind new ETF launches.",
+      "sentiment_pos": 0.06557798385620117,
+      "sentiment_neg": 0.015040711499750614,
+      "sentiment_neu": 0.919381320476532,
+      "sentiment_score": 0.05053727328777313,
+      "confidence": 0.919381320476532
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Benzinga Market Summary: S&P Marginally Higher, Piper Sandler Raises NVIDIA Price Target, Gold And Bitcoin Rise Ahead Of Potential Government Shutdown",
+      "summary": "",
+      "sentiment_pos": 0.9165124297142029,
+      "sentiment_neg": 0.046613868325948715,
+      "sentiment_neu": 0.036873769015073776,
+      "sentiment_score": 0.8698985576629639,
+      "confidence": 0.9165124297142029
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Alibaba's $53 Billion AI Push Is The Threat Nvidia Can't Ignore",
+      "summary": "Alibaba Group Holding Ltd\u2018s (NYSE: BABA) (NYSE: BABAF) stealth AI expansion may be Wall Street&#39;s blind spot\u2014but it&#39;s Nvidia Corp&#39;s (NASDAQ: ",
+      "sentiment_pos": 0.16169263422489166,
+      "sentiment_neg": 0.03199209272861481,
+      "sentiment_neu": 0.8063152432441711,
+      "sentiment_score": 0.12970054149627686,
+      "confidence": 0.8063152432441711
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "NVIDIA Partnering With Leading Institutions And Developers Worldwide, Launches Open-Source Newton Physics Engine And Isaac GR00T Model To Advance Humanlike Reasoning In Robots",
+      "summary": "",
+      "sentiment_pos": 0.5463312268257141,
+      "sentiment_neg": 0.009018618613481522,
+      "sentiment_neu": 0.44465017318725586,
+      "sentiment_score": 0.5373126268386841,
+      "confidence": 0.5463312268257141
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Performance Comparison: NVIDIA And Competitors In Semiconductors &amp; Semiconductor Equipment Industry",
+      "summary": "Amidst today&#39;s fast-paced and highly competitive business environment, it is crucial for investors and industry enthusiasts to conduct comprehensive company evaluations.",
+      "sentiment_pos": 0.17928095161914825,
+      "sentiment_neg": 0.010592162609100342,
+      "sentiment_neu": 0.8101269602775574,
+      "sentiment_score": 0.1686887890100479,
+      "confidence": 0.8101269602775574
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Gold Soars On Shutdown Fears But Physical Demand Weakens, Buying Stocks For Window Dressing but Rebalancing Ahead",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.07665019482374191,
+      "sentiment_neg": 0.2506307363510132,
+      "sentiment_neu": 0.6727191209793091,
+      "sentiment_score": -0.17398053407669067,
+      "confidence": 0.6727191209793091
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Jefferies Maintains Buy on NVIDIA, Raises Price Target to $220",
+      "summary": "",
+      "sentiment_pos": 0.7123427987098694,
+      "sentiment_neg": 0.023334655910730362,
+      "sentiment_neu": 0.2643224895000458,
+      "sentiment_score": 0.6890081167221069,
+      "confidence": 0.7123427987098694
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Why Washington Wants Half Of America's Chips Made Locally",
+      "summary": "Taiwan Semiconductor Manufacturing Co. (NYSE: TSM) stock gained on Monday amid renewed geopolitical and supply chain discussions, as the United States intensifies its efforts to onshore semiconductor production.",
+      "sentiment_pos": 0.9464898705482483,
+      "sentiment_neg": 0.02935889922082424,
+      "sentiment_neu": 0.024151204153895378,
+      "sentiment_score": 0.9171309471130371,
+      "confidence": 0.9464898705482483
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Stock Market Today: Nasdaq, Dow, S&P 500 Futures Rise As Government Shutdown Looms\u2014 Kellanova, Carnival Corp, Jefferies In Focus (UPDATED)",
+      "summary": "Editor\u2019s Note: The future prices of benchmark tracking ETFs were updated in the story.\n\n\n\nU.S. stock futures rose on Monday following Friday\u2019s advances. Futures of major benchmark indices were higher.",
+      "sentiment_pos": 0.8912007808685303,
+      "sentiment_neg": 0.039088163524866104,
+      "sentiment_neu": 0.06971116364002228,
+      "sentiment_score": 0.8521125912666321,
+      "confidence": 0.8912007808685303
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "'Huawei To Double Output Of Top AI Chip As Nvidia Wavers In China' -Bloomberg",
+      "summary": "",
+      "sentiment_pos": 0.9444776773452759,
+      "sentiment_neg": 0.016149042174220085,
+      "sentiment_neu": 0.03937327489256859,
+      "sentiment_score": 0.9283286333084106,
+      "confidence": 0.9444776773452759
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
+      "summary": "U.S. stocks settled higher on Friday, with the Dow Jones index gaining around 300 points during the session following the release of inflation data.\n\n\n\nMajor indices, however, recorded losses last week, with the Nasdaq Composite falling 0.7% and S&amp;P 500 losing 0.3%. The Dow also fell 0.2% during the week.",
+      "sentiment_pos": 0.02211119420826435,
+      "sentiment_neg": 0.9675049185752869,
+      "sentiment_neu": 0.010383876040577888,
+      "sentiment_score": -0.9453937411308289,
+      "confidence": 0.9675049185752869
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Taiwan Semiconductor Shuts Down Rumors Of Intel Deal",
+      "summary": "Taiwan Semiconductor Manufacturing Co.",
+      "sentiment_pos": 0.012183037586510181,
+      "sentiment_neg": 0.942583441734314,
+      "sentiment_neu": 0.045233484357595444,
+      "sentiment_score": -0.9304004311561584,
+      "confidence": 0.942583441734314
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Nvidia CEO Jensen Huang Warns US Export Controls On China May Have Backfired: 'They're Nanoseconds Behind Us'",
+      "summary": "Nvidia Corp. (NASDAQ: NVDA) CEO Jensen Huang has hinted that U.S. policies aimed at slowing China&#39;s artificial intelligence progress might have instead accelerated domestic competitors like Huawei Technologies.",
+      "sentiment_pos": 0.022050533443689346,
+      "sentiment_neg": 0.9454445242881775,
+      "sentiment_neu": 0.03250497207045555,
+      "sentiment_score": -0.923393964767456,
+      "confidence": 0.9454445242881775
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Jensen Huang Fires Back At Wall Street 'Flatlining' Nvidia Forecasts, Says AI Demand Will Crush Long-Term Expectations",
+      "summary": "Chipmaker Nvidia Corp.\u2019s (NASDAQ: NVDA) CEO Jensen Huang pushed back against Wall Street&#39;s long-term outlook for the company, saying analysts are underestimating the scale of artificial intelligence demand.",
+      "sentiment_pos": 0.02425200678408146,
+      "sentiment_neg": 0.951973021030426,
+      "sentiment_neu": 0.023775050416588783,
+      "sentiment_score": -0.9277210235595703,
+      "confidence": 0.951973021030426
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Jensen Huang Calls OpenAI The Next Multi-Trillion-Dollar Hyperscaler As Nvidia Pledges $100 Billion: 'This Is Some Of The Smartest Investment...'",
+      "summary": "Nvidia Corporation (NASDAQ: NVDA) CEO Jensen Huang said OpenAI is on track to become the world&#39;s next multi-trillion-dollar hyperscaler, defending his company&#39;s decision to ",
+      "sentiment_pos": 0.8170556426048279,
+      "sentiment_neg": 0.010160190984606743,
+      "sentiment_neu": 0.17278426885604858,
+      "sentiment_score": 0.8068954348564148,
+      "confidence": 0.8170556426048279
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "US Stocks End Day Higher Despite Posting Record Weekly Losses: Investors Show Signs Of Optimism, But Fear & Greed Index In 'Neutral' Zone",
+      "summary": "The CNN Money Fear and Greed index showed some improvement in the overall market sentiment, while the index remained in the \u201cNeutral\u201d zone on Friday.\n\n\n\nU.S. stocks settled higher on Friday, with the Dow Jones index gaining around 300 points during the session following the release of inflation data.",
+      "sentiment_pos": 0.9344260692596436,
+      "sentiment_neg": 0.0391303114593029,
+      "sentiment_neu": 0.026443613693118095,
+      "sentiment_score": 0.8952957391738892,
+      "confidence": 0.9344260692596436
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Martin Shkreli Defends Nvidia-OpenAI Deal: It's A 'Lot More Efficient' This Way \u2014 'Pharma Bro' Cites Growing 'Non-Party Demand'",
+      "summary": "Investor Martin Shkreli came out in support of the $100 billion investment pledge made by chipmaker NVIDIA Corp. (NASDAQ: NVDA) to ChatGPT-parent ",
+      "sentiment_pos": 0.861574113368988,
+      "sentiment_neg": 0.014270150102674961,
+      "sentiment_neu": 0.1241556778550148,
+      "sentiment_score": 0.8473039865493774,
+      "confidence": 0.861574113368988
+    },
+    {
+      "date": "2025-09-29",
+      "headline": "Kevin O'Leary Says Artificial Intelligence Is Creating Better Jobs, Not Destroying Them: 'If AI Can Flip Burgers, That's A Good Thing'",
+      "summary": "Over the weekend, Kevin O&#39;Leary pushed back against fears that artificial intelligence will wipe out jobs, calling it a tool for higher productivity and better opportunities \u2014 even as new research warns that entry-level hiring is shr",
+      "sentiment_pos": 0.04004478082060814,
+      "sentiment_neg": 0.9128717184066772,
+      "sentiment_neu": 0.047083571553230286,
+      "sentiment_score": -0.8728269338607788,
+      "confidence": 0.9128717184066772
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Nvidia CEO Jensen Huang Once Offered To Cry With Masayoshi Son Over A Missed Fortune, But That's Not Their Only Regret",
+      "summary": "Nvidia Corporation&#39;s (NASDAQ: NVDA) CEO Jensen Huang once teased his friend SoftBank Group (OTC: SFTBF) (OTC: SFTBY) founder M",
+      "sentiment_pos": 0.04092078283429146,
+      "sentiment_neg": 0.565986156463623,
+      "sentiment_neu": 0.3930930495262146,
+      "sentiment_score": -0.5250653624534607,
+      "confidence": 0.565986156463623
+    },
+    {
+      "date": "2025-09-28",
+      "headline": "Consumer Tech News (Sep. 22 \u2013 Sep. 26): US GDP Rebound, Shutdown Threat, AI Push by Big Tech, and Corporate Earnings Beats",
+      "summary": "The U.S. economy grew at a 3.8% annual rate in the second quarter, its fastest pace since the third quarter of 2023 and above the long-term trend.",
+      "sentiment_pos": 0.941145122051239,
+      "sentiment_neg": 0.036719053983688354,
+      "sentiment_neu": 0.022135848179459572,
+      "sentiment_score": 0.904426097869873,
+      "confidence": 0.941145122051239
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Intel, Boeing Rally As Silver Hits $46 And Bitcoin Slips Below $110,000: What's Moving Markets Friday?",
+      "summary": "Wall Street moved modestly higher by midday Friday, yet major indexes remain on pace to break a three-week winning streak.\n\n\n\nAt midday, the S&amp;P 500 was up 0.4% to 6,630, while the Nasdaq 100 gained 0.2% to 24,440. The Russell 2000, the benchmark small-cap index, rebounded 0.5%. ",
+      "sentiment_pos": 0.9396499991416931,
+      "sentiment_neg": 0.034615106880664825,
+      "sentiment_neu": 0.025734836235642433,
+      "sentiment_score": 0.9050348997116089,
+      "confidence": 0.9396499991416931
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Consumers Splurge, Intel, GlobalFoundries, Lilly, Paccar, American Woodmark Benefit From New Tariffs",
+      "summary": "\n\n\n\nTo gain an edge, this is what you need to know today.",
+      "sentiment_pos": 0.17518943548202515,
+      "sentiment_neg": 0.009067708626389503,
+      "sentiment_neu": 0.8157429099082947,
+      "sentiment_score": 0.1661217212677002,
+      "confidence": 0.8157429099082947
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Exploring The Competitive Space: NVIDIA Versus Industry Peers In Semiconductors &amp; Semiconductor Equipment",
+      "summary": "Amidst the fast-paced and highly competitive business environment of today, conducting comprehensive company analysis is essential for investors and industry enthusiasts.",
+      "sentiment_pos": 0.19651398062705994,
+      "sentiment_neg": 0.008802969008684158,
+      "sentiment_neu": 0.7946830987930298,
+      "sentiment_score": 0.18771101534366608,
+      "confidence": 0.7946830987930298
+    },
+    {
+      "date": "2025-09-25",
+      "headline": "How To Trade SPY, Top Tech Stocks Using Technical Analysis",
+      "summary": "Good Morning Traders! ",
+      "sentiment_pos": 0.08576344698667526,
+      "sentiment_neg": 0.016267655417323112,
+      "sentiment_neu": 0.8979690074920654,
+      "sentiment_score": 0.069495789706707,
+      "confidence": 0.8979690074920654
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "The AI Stock Market Bubble: Why It Hasn't Burst Yet and What's Keeping Valuations High",
+      "summary": "As AI stocks continue to defy gravity, investors are grappling with a fundamental question: Is this another dot-com bubble waiting to burst, or are we witnessing the birth of a new market paradigm? The answer, according to market analysts, lies somewhere in between.",
+      "sentiment_pos": 0.04201425611972809,
+      "sentiment_neg": 0.20176859200000763,
+      "sentiment_neu": 0.7562171816825867,
+      "sentiment_score": -0.15975433588027954,
+      "confidence": 0.7562171816825867
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Hyperscale Data Turns Michigan Bitcoin Site Into AI Hub With New Nvidia Blackwell Servers",
+      "summary": "",
+      "sentiment_pos": 0.4730721712112427,
+      "sentiment_neg": 0.014867343008518219,
+      "sentiment_neu": 0.5120604634284973,
+      "sentiment_score": 0.45820483565330505,
+      "confidence": 0.5120604634284973
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Nvidia-OpenAI Deal Sparks 'Circular' Investment Concerns, Says Analyst: 'Incremental Worries Around...'",
+      "summary": "Nvidia Corporation\u2018s (NASDAQ: NVDA) recent investment in OpenAI has sparked investor concerns that the startup might buy Nvidia chips, creating a \u201ccircular\u201d investment loop and raising questions about the move&#39;s rationale and potential impact on Nvidia&#39;s stock.",
+      "sentiment_pos": 0.0115522351115942,
+      "sentiment_neg": 0.9530935287475586,
+      "sentiment_neu": 0.03535421937704086,
+      "sentiment_score": -0.941541314125061,
+      "confidence": 0.9530935287475586
+    },
+    {
+      "date": "2025-09-26",
+      "headline": "Nvidia Exec Says AI Adoption Lags Because People Don't Trust It, Pushes Open-Source Nemotron As Solution",
+      "summary": "Earlier this week, Nvidia Corporation&#39;s (NASDAQ: NVDA) Bryan Catanzaro said many people are hesitant to adopt artificial intelligence because they do not trust or understand it, arguing that the company&#39;s open-source Nemotron platform is designed to change that.",
+      "sentiment_pos": 0.039155811071395874,
+      "sentiment_neg": 0.6664130687713623,
+      "sentiment_neu": 0.2944311201572418,
+      "sentiment_score": -0.627257227897644,
+      "confidence": 0.6664130687713623
+    }
+  ]
+}
